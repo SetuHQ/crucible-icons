@@ -1,0 +1,39 @@
+<svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>
+            .base {
+                fill: #b7cde1;
+            }
+
+            .mix-blend-multiply {
+                mix-blend-mode: multiply;
+            }
+
+            .primary {
+                fill: #F05656;
+            }
+        </style>
+    </defs>
+    <rect x="39" y="4" width="11" height="2" rx="1" transform="rotate(90 39 4)" fill="white" />
+    <rect x="27" y="4" width="11" height="2" rx="1" transform="rotate(90 27 4)" fill="white" />
+    <rect x="20" y="4" width="24" height="2" rx="1" fill="white" />
+    <rect x="16" y="12.0181" width="32" height="47.9819" rx="6" fill="white" />
+    <g class="mix-blend-multiply">
+        <rect x="16" y="12.0181" width="32" height="47.9819" rx="6" class="base" />
+    </g>
+    <g class="mix-blend-multiply">
+        <rect x="16" y="25" width="32" height="13" class="primary" />
+    </g>
+    <g class="mix-blend-multiply">
+        <rect x="20" y="4" width="24" height="2" rx="1" class="base" />
+    </g>
+    <g class="mix-blend-multiply">
+        <rect x="20" y="4" width="24" height="2" rx="1" class="primary" />
+    </g>
+    <g class="mix-blend-multiply">
+        <rect x="39" y="4" width="11" height="2" rx="1" transform="rotate(90 39 4)" class="primary" />
+    </g>
+    <g class="mix-blend-multiply">
+        <rect x="27" y="4" width="11" height="2" rx="1" transform="rotate(90 27 4)" class="primary" />
+    </g>
+</svg>

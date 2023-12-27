@@ -1,0 +1,25 @@
+<svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>
+            .base {
+                fill: #B7CDE1
+            }
+
+            .mix-blend-multiply {
+                mix-blend-mode: multiply
+            }
+
+            .primary {
+                fill: #42CACD
+            }
+
+        </style>
+    </defs>
+    <rect y="10" width="64" height="44" rx="2.0805" class="base" />
+    <g class="mix-blend-multiply">
+        <rect y="17" width="64" height="8" class="base" />
+    </g>
+    <g class="mix-blend-multiply">
+        <rect x="34" y="39" width="23" height="8" rx="4" class="primary" />
+    </g>
+</svg>

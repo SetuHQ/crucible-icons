@@ -1,0 +1,15 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+	<defs>
+		<style>
+			.stroke {
+				stroke: #000;
+			}
+		</style>
+	</defs>
+	<rect stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" x="3" y="3"
+		width="4" height="18" />
+	<rect stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" x="10" y="3"
+		width="4" height="18" />
+	<rect stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" x="17" y="3"
+		width="4" height="18" />
+</svg>

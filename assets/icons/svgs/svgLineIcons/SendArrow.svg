@@ -1,0 +1,11 @@
+<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+     <defs>
+        <style>
+            .stroke {
+                stroke: #000;
+            }
+        </style>
+    </defs>
+    <path d="M20 12L3 21L7.33333 12L3 3L20 12Z" class="stroke" stroke-width="2" stroke-linejoin="round" />
+    <path d="M8 12L20 12" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

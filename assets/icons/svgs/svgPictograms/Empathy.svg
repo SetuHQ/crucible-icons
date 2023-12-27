@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+	<defs>
+		<style>
+			.isolate{isolation:isolate;}.base{fill:#ff464f;}
+			.mix-blend-multiply{mix-blend-mode:multiply;}
+			.primary{fill:#ffab00;}
+		</style>
+	</defs>
+	<g class="isolate">
+		<g id="Layer_2" data-name="Layer 2">
+			<path class="base mix-blend-multiply" d="M56,26.37c.39-6.87-4.83-13-11.72-13.16A12,12,0,0,0,32,25.22a12,12,0,0,0-12.28-12C12.8,13.36,7.58,19.5,8,26.37,8.88,42.27,28.21,53.25,31.49,55a1,1,0,0,0,.94,0C35.71,53.25,55.05,42.27,56,26.37Z" />
+			<path class="primary" d="M32,10C16.62,10,4.16,11.87,4.16,14.18S16.62,18.36,32,18.36s27.84-1.87,27.84-4.18S47.38,10,32,10Zm0,7C21.71,17,13.4,15.72,13.4,14.18S21.71,11.39,32,11.39s18.56,1.25,18.56,2.79S42.21,17,32,17Z" />
+		</g>
+	</g>
+</svg>

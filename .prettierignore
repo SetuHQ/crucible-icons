@@ -1,0 +1,5 @@
+public
+dist/
+types.tsx
+*.styles.tsx
+iconSpecificStyles.tsx

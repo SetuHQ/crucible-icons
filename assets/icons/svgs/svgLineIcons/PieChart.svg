@@ -1,0 +1,13 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+	<defs>
+		<style>
+			.stroke {
+				stroke: #000;
+			}
+		</style>
+	</defs>
+	<path stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
+		d="M21.21,15.89A10,10,0,1,1,8,2.83" />
+	<path stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
+		d="M22,12A10,10,0,0,0,12,2V12Z" />
+</svg>

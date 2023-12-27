@@ -1,0 +1,31 @@
+<svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>
+            .base {
+                fill: #b7cde1;
+            }
+
+            .mix-blend-multiply {
+                mix-blend-mode: multiply;
+            }
+
+            .primary {
+                fill: #36A168;
+            }
+        </style>
+    </defs>
+    <rect x="14.6667" y="4" width="36" height="56" rx="2.66667" class="base" />
+    <g class="mix-blend-multiply">
+        <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M24.0368 17.3335H40V19.3828H33.1972C34.067 20.3628 34.633 21.6059 34.8181 22.9427H39.9509V24.992H34.7936C34.5798 26.2479 34.0245 27.4086 33.1972 28.3286C32.6674 28.9212 32.0385 29.4024 31.3431 29.7473L36.2548 38.6668H33.9094L29.3415 30.3121H24V28.276H29.1082C30.0227 28.2787 30.9121 27.9563 31.6367 27.3595C32.3612 26.7627 32.8799 25.9253 33.1113 24.9788H24.0368V22.9296H33.1972C33.0025 21.9306 32.4921 21.0339 31.7518 20.3903C31.0116 19.7467 30.0867 19.3955 29.1328 19.3959H24V17.3335H24.0368Z"
+            class="primary" />
+    </g>
+    <g class="mix-blend-multiply">
+        <g class="mix-blend-multiply">
+            <circle cx="32" cy="54.6667" r="2.66667" class="base" />
+        </g>
+        <g class="mix-blend-multiply">
+            <circle cx="32" cy="54.6667" r="2.66667" class="base" />
+        </g>
+    </g>
+</svg>

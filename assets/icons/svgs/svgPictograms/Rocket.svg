@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+	<defs>
+		<style>
+			.isolate{isolation:isolate;}
+			.secondary{fill:#f7993b;}
+			.tertiary{fill:#f05656;}
+			.base{fill:#b7cde1;}
+			.mix-blend-multiply{mix-blend-mode:multiply;}
+			.primary{fill:#42cacd;}
+		</style>
+	</defs>
+	<g class="isolate">
+		<g id="Layer_1" data-name="Layer 1">
+			<path class="secondary" d="M11.69,41.76a7.42,7.42,0,1,1,10.49,10.5C14.84,59.6,5.39,60.65,4.34,59.6S4.34,49.11,11.69,41.76Z" />
+			<path class="tertiary" d="M14.49,41.73a5.37,5.37,0,0,1,5.85-1.16,5.45,5.45,0,0,1,2.91,2.91,5.35,5.35,0,0,1-1.17,5.85C16.77,54.64,9.93,55.4,9.17,54.64S9.17,47.05,14.49,41.73Z" />
+			<path class="base mix-blend-multiply" d="M41.56,8.1C52.75,3.31,60,4.11,60,4.11s.8,7.19-4,18.38c-2.4,5.6-11.19,14.39-11.19,14.39L31.17,50.48,13.58,32.89,27.17,19.3S36,10.5,41.56,8.1Z" />
+			<path class="secondary" d="M15.18,34.49,29.57,48.88l-1.16,1.17a.67.67,0,0,1-.46.18.63.63,0,0,1-.45-.18L14,36.53a.6.6,0,0,1-.16-.44.59.59,0,0,1,.19-.43Z" />
+			<g class="mix-blend-multiply">
+				<path class="primary" d="M4.55,29.69l12.79,1.6L31.73,16.9l-9.59-1.6A2.32,2.32,0,0,0,21,15.22a2.22,2.22,0,0,0-1,.48Z" />
+			</g>
+			<g class="mix-blend-multiply">
+				<path class="primary" d="M34.37,59.45l-1.6-12.79L47.16,32.27l1.6,9.6A2.24,2.24,0,0,1,48.35,44Z" />
+			</g>
+			<g class="mix-blend-multiply">
+				<path class="base" d="M47.08,21.37a4.47,4.47,0,1,0-4.47-4.47A4.47,4.47,0,0,0,47.08,21.37Z" />
+			</g>
+			<g class="mix-blend-multiply">
+				<path class="primary" d="M47,19.83a2.8,2.8,0,1,0-2.8-2.8A2.8,2.8,0,0,0,47,19.83Z" />
+			</g>
+			<path class="primary" d="M40,28.89c.73-1.1.17-3-.8-4s-2.86-1.48-4-.76L18.38,45.68Z" />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,21 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+	<defs>
+		<style>
+			.stroke {
+				stroke: #000;
+			}
+		</style>
+	</defs>
+	<polyline stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
+		points="6.96 9 2.96 9 2.96 21" />
+	<polyline stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
+		points="19.96 12 19.96 9 17.96 9" />
+	<polygon stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
+		points="18.96 21 2.96 21 5.96 12 20.96 12 18.96 21" />
+	<rect stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" x="6.96" y="3"
+		width="10" height="9" />
+	<line stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" x1="9.96" y1="6"
+		x2="13.96" y2="6" />
+	<line stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" x1="9.96" y1="9"
+		x2="13.96" y2="9" />
+</svg>

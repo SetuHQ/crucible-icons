@@ -1,0 +1,24 @@
+<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+		<style>
+			.stroke{stroke:#000;}
+		</style>
+	</defs>
+    <path d="M1.39999 15.6V19.6" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M5.39999 19.6H1.39999" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M19.4 5.60001V1.60001" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M15.4 1.60001H19.4" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M7.26001 1H10.34" class="stroke" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" />
+    <path d="M8.90001 1.64001L8.89001 10.15" class="stroke" stroke-width="2" stroke-miterlimit="10"
+        stroke-linecap="round" />
+    <path d="M4.53 5.64999H8.2" class="stroke" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" />
+    <path
+        d="M1 2.39999C1.58 1.37999 2.77 0.919993 3.8 1.24999C4.65 1.52999 5.28 2.31999 5.35 3.21999C5.43 4.30999 4.66 5.35999 3.5 5.64999"
+        class="stroke" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" />
+    <path
+        d="M3.45999 5.70001C4.70999 5.77001 5.68999 6.68001 5.80999 7.75001C5.89999 8.59001 5.44999 9.42001 4.79999 9.86001C4.21999 10.25 3.60999 10.25 3.40999 10.24C2.81999 10.22 2.40999 9.97001 2.30999 9.91001C1.89999 9.66001 1.67999 9.33001 1.57999 9.16001"
+        class="stroke" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" />
+    <path d="M17.15 10.75L20.47 19.88" class="stroke" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" />
+    <path d="M17.04 10.77L13.67 19.78" class="stroke" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" />
+    <path d="M14.61 17.48L19.35 17.42" class="stroke" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" />
+</svg>

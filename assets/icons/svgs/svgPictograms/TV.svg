@@ -1,0 +1,32 @@
+<svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>
+            .base {
+                fill: #b7cde1;
+            }
+
+            .mix-blend-multiply {
+                mix-blend-mode: multiply;
+            }
+
+            .primary {
+                fill: #42CACD;
+            }
+        </style>
+    </defs>
+    <rect x="60" y="11" width="38" height="56" rx="2.66667" transform="rotate(90 60 11)" fill="white" />
+
+    <g class="mix-blend-multiply">
+        <rect x="45" y="51" width="2" height="26" rx="1" transform="rotate(90 45 51)" class="base" />
+    </g>
+    <rect x="45" y="51" width="2" height="26" rx="1" transform="rotate(90 45 51)" class="primary" />
+    <g class="mix-blend-multiply">
+        <rect x="34" y="51" width="4" height="2" transform="rotate(-180 34 51)" class="base" />
+    </g>
+    <g class="mix-blend-multiply">
+        <rect x="34" y="52" width="4" height="3" transform="rotate(-180 34 52)" class="primary" />
+    </g>
+    <g class="mix-blend-multiply">
+        <rect x="60" y="11" width="38" height="56" rx="2.66667" transform="rotate(90 60 11)" class="base" />
+    </g>
+</svg>

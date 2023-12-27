@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <defs>
+        <style>
+            .isolate {
+                isolation: isolate;
+            }
+
+            .base {
+                fill: #b7cde1
+            }
+
+            .primary {
+                fill: #42cacd
+            }
+
+            .mix-blend-multiply {
+                mix-blend-mode: multiply
+            }
+        </style>
+    </defs>
+    <g class="isolate">
+        <g>
+            <path d="M38,51.91a.64.64,0,0,1-.63.64H19.63a.64.64,0,0,1-.63-.64V44H38Z" class="primary" />
+            <path
+                d="M48.27,26.13A22.14,22.14,0,1,1,26.13,4,22.14,22.14,0,0,1,48.27,26.13ZM21.46,12.4a.51.51,0,0,1,0,.72l-8.34,8.34a.51.51,0,0,1-.72,0,.51.51,0,0,1,0-.71l8.35-8.35A.51.51,0,0,1,21.46,12.4Zm-.89,6.16a.5.5,0,1,0-.71-.71l-6.33,6.33a.5.5,0,0,0,.71.71Z"
+                class="base" fill-rule="evenodd" />
+            <path
+                d="M39.5,43.77a22.09,22.09,0,1,1,4.27-4.26L59.7,55.44a1,1,0,0,1,0,1.42l-2.84,2.85a1,1,0,0,1-1.42,0Zm4.74-17.64A18.11,18.11,0,1,1,26.13,8,18.1,18.1,0,0,1,44.24,26.13Z"
+                class="base mix-blend-multiply" fill-rule="evenodd" />
+            <path d="M27.85,28.29a5.15,5.15,0,1,0-5.14-5.14A5.14,5.14,0,0,0,27.85,28.29Z"
+                class="mix-blend-multiply primary" />
+            <path
+                d="M29.52,29.49h-3A10.37,10.37,0,0,0,16.13,39.93v1.28A18,18,0,0,0,39.76,38,10.36,10.36,0,0,0,29.52,29.49Z"
+                class="primary mix-blend-multiply" />
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+{
+    "env": {
+        "commonjs": {
+            "presets": ["@babel/preset-env"]
+        },
+        "es6": {
+            "presets": [
+                ["@babel/preset-env", {
+                    "modules": false
+                }]
+            ]
+        }
+    },
+    "presets": [
+        ["@babel/preset-react", {
+            "runtime": "automatic"
+        }],
+        "@babel/preset-typescript"
+    ],
+    "plugins": [
+        "@babel/plugin-transform-runtime"
+    ],
+    "ignore": ["*.test.tsx", "*.stories.tsx", "*.stories.mdx", "*.d.ts", "mock"]
+}

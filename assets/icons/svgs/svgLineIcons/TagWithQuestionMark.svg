@@ -1,0 +1,14 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+	<defs>
+		<style>
+			.stroke {
+				stroke: #000;
+			}
+		</style>
+	</defs>
+	<polygon stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
+		points="20 16 12 21 4 16 4 3 20 3 20 16" />
+	<circle cx="12" cy="17" r="1" />
+	<path stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
+		d="M12,14c0-3,3-2,3-5A3,3,0,0,0,9,9" />
+</svg>

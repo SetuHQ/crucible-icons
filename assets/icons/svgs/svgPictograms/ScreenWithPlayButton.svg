@@ -1,0 +1,25 @@
+<svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>
+            .base {
+                fill: #B7CDE1
+            }
+
+            .mix-blend-multiply {
+                mix-blend-mode: multiply
+            }
+
+            .primary {
+                fill: #42CACD
+            }
+        </style>
+    </defs>
+    <rect x="4" y="18.667" width="56" height="37.4489" rx="2.0805" class="base" />
+    <rect x="8" y="13.333" width="48" height="2.66667" rx="1.33333" class="base" />
+    <rect x="12" y="8" width="40" height="2.66667" rx="1.33333" class="base" />
+    <g class="mix-blend-multiply">
+        <path
+            d="M39.3333 36.8453C40.2222 37.3585 40.2222 38.6415 39.3333 39.1547L28.3333 45.5056C27.4444 46.0188 26.3333 45.3773 26.3333 44.3509L26.3333 31.6491C26.3333 30.6227 27.4444 29.9812 28.3333 30.4944L39.3333 36.8453Z"
+            class="primary" />
+    </g>
+</svg>

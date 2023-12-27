@@ -1,0 +1,13 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .stroke {
+                stroke: #000;
+            }
+        </style>
+    </defs>
+    <polyline stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
+        points="14 17 19 12 14 7" />
+    <line stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" x1="17.5" y1="12"
+        x2="4.5" y2="12" />
+</svg>

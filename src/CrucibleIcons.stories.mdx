@@ -1,0 +1,39 @@
+import { Meta, Story, Canvas, ArgsTable, Subtitle } from "@storybook/addon-docs";
+import * as stories from "./CrucibleIcons.stories";
+import pkg from "../package.json";
+import * as AllPictograms from "./icons/reactPictograms/";
+import * as AllLineIcons from "./icons/reactLineIcons/";
+import * as AllLogos from "./logos/reactLogos/";
+import * as AllLogoIcons from "./logos/reactLogoIcons/";
+
+<Meta title="CrucibleIcons" component={AllPictograms} parameters={{ theme: "setu" }} />
+
+# CrucibleIcons
+
+### `@setu/crucible-icons`
+
+<Subtitle>Latest Version: v{pkg.version}</Subtitle>
+
+<Canvas>
+    <Story name="Pictograms" story={stories.Pictograms} parameters={{ theme: "setu" }}></Story>
+</Canvas>
+
+<ArgsTable story="Pictograms" />
+
+<Canvas>
+    <Story name="LineIcons" story={stories.LineIcons} parameters={{ theme: "setu" }}></Story>
+</Canvas>
+
+<ArgsTable story="LineIcons" />
+
+<Canvas>
+    <Story name="Logos" story={stories.Logos} parameters={{ theme: "setu" }}></Story>
+</Canvas>
+
+<ArgsTable story="Logos" />
+
+<Canvas>
+    <Story name="LogoIcons" story={stories.LogoIcons} parameters={{ theme: "setu" }}></Story>
+</Canvas>
+
+<ArgsTable story="LogoIcons" />

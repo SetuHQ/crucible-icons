@@ -1,0 +1,39 @@
+<svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>
+            .base {
+                fill: #b7cde1;
+            }
+
+            .mix-blend-multiply {
+                mix-blend-mode: multiply;
+            }
+
+            .primary {
+                fill: #F7993B;
+            }
+        </style>
+    </defs>
+    <rect x="40" y="48" width="2.66667" height="16" transform="rotate(90 40 48)" fill="white" />
+    <rect x="52" y="52" width="8" height="40" rx="1.33333" transform="rotate(90 52 52)" fill="white" />
+    <rect x="46.6667" y="50.6665" width="4" height="30.6667" transform="rotate(90 46.6667 50.6665)" fill="white" />
+
+    <g class="mix-blend-multiply">
+        <rect x="40" y="48" width="2.66667" height="16" transform="rotate(90 40 48)" class="base" />
+    </g>
+    <g class="mix-blend-multiply">
+        <rect x="52" y="52" width="8" height="40" rx="1.33333" transform="rotate(90 52 52)" class="base" />
+    </g>
+    <g class="mix-blend-multiply">
+        <rect x="46.6667" y="50.6665" width="4" height="30.6667" transform="rotate(90 46.6667 50.6665)" class="base" />
+    </g>
+
+    <path
+        d="M28.7701 4C31.0002 4 41.2446 14.1913 38.8583 27.4584C39.8794 24.8897 44.7698 22.7312 44.7698 16.1905C48.1623 22.7967 51.6299 37.4717 39.7303 45.1055C36.1222 47.4202 25.6387 48.1885 19.3757 39.9674C17.2881 36.7866 14.9916 28.3697 22.5072 20.1486C24.3339 17.9465 28.7701 12.381 28.7701 4Z"
+        class="base" />
+    <g class="mix-blend-multiply">
+        <path
+            d="M31.1419 29.3335C32.0146 29.3335 36.0233 33.4737 35.0895 38.8635C35.489 37.8199 37.4027 36.9431 37.4027 34.2859C38.7302 36.9697 40.0871 42.9314 35.4307 46.0326C34.0188 46.973 29.9166 47.2851 27.4659 43.9452C26.6489 42.653 25.7503 39.2337 28.6912 35.8939C29.406 34.9993 31.1419 32.7383 31.1419 29.3335Z"
+            class="primary" />
+    </g>
+</svg>

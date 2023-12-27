@@ -1,0 +1,16 @@
+<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>
+            .stroke {
+                stroke: #000;
+            }
+        </style>
+    </defs>
+    <path
+        d="M9 3H4C3.44772 3 3 3.44772 3 4V9C3 9.55228 3.44772 10 4 10H9C9.55228 10 10 9.55228 10 9V4C10 3.44772 9.55228 3 9 3Z"
+        class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path
+        d="M17.5 10C19.433 10 21 8.433 21 6.5C21 4.567 19.433 3 17.5 3C15.567 3 14 4.567 14 6.5C14 8.433 15.567 10 17.5 10Z"
+        class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M14 14H21V21L14 14Z" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

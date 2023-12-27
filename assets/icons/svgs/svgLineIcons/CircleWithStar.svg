@@ -1,0 +1,13 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+	<defs>
+		<style>
+			.stroke {
+				stroke: #000;
+			}
+		</style>
+	</defs>
+	<polygon stroke-width="1.65" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
+		points="12 6.57 13.63 9.87 17.26 10.39 14.63 12.96 15.25 16.57 12 14.87 8.75 16.57 9.37 12.96 6.74 10.39 10.38 9.87 12 6.57" />
+	<circle stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" cx="12" cy="12"
+		r="9" />
+</svg>

@@ -1,0 +1,14 @@
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
+    <defs>
+        <style>
+            .stroke {
+                stroke: #000;
+            }
+        </style>
+    </defs>
+    <path stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
+        d="m8,7l-5,5,5,5" />
+    <path stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" d="m4,12h12" />
+    <path stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
+        d="m13,7v-3c0-.27.11-.52.29-.71.19-.19.44-.29.71-.29h6c.27,0,.52.11.71.29.19.19.29.44.29.71v16c0,.27-.11.52-.29.71s-.44.29-.71.29h-6c-.27,0-.52-.11-.71-.29s-.29-.44-.29-.71v-3" />
+</svg>
