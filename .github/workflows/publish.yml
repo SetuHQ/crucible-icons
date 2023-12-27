@@ -1,8 +1,11 @@
 name: Publish
 
 on:
-  release:
-    types: [created]
+  pull_request:
+    types:
+      - closed
+    branches:
+      - 'main'
 
 jobs:
   publish-npm:
