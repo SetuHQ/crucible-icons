@@ -21,6 +21,7 @@ export { default as Book } from "./Book";
 export { default as BookWithKarmaSymbol } from "./BookWithKarmaSymbol";
 export { default as BoxWithBraces } from "./BoxWithBraces";
 export { default as BoxWithCash } from "./BoxWithCash";
+export { default as BoxWithCoin } from "./BoxWithCoin";
 export { default as BoxWithMobile } from "./BoxWithMobile";
 export { default as BoxWithShapes } from "./BoxWithShapes";
 export { default as BoxWithStar } from "./BoxWithStar";
