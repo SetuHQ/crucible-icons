@@ -141,6 +141,11 @@ export const iconSpecificStyles: IconStylesTypes = {
         secondary   : "#42CACD",
     },
 
+    [PictogramsNames.BoxWithCoin]: {
+        base        : "#D3BFEE",
+        primary     : "#FFFFFF"
+    },
+
     [PictogramsNames.BoxWithMobile]: {
         base        : "#b7cde1",
         primary     : "#42cacd",

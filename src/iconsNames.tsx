@@ -22,6 +22,7 @@ export const PictogramsNames = {
     Book                            : "Book" ,
     BoxWithBraces                   : "BoxWithBraces",
     BoxWithCash                     : "BoxWithCash",
+    BoxWithCoin                     : "BoxWithCoin",
     BoxWithMobile                   : "BoxWithMobile" ,
     BoxWithShapes                   : "BoxWithShapes" ,
     BoxWithStar                     : "BoxWithStar" ,
