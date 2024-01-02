@@ -48,6 +48,12 @@ You can configure crucible icons using props.
 
 Note: `fill` prop is only valid for icons `BadgeWithTick`, `CircleWithCross`, `CircleWithTick`.
 
+### Contributing to the package
+
+- Create an issue with the icon/s that needs to be added to the package
+- The issue is reviewed and a PR with all the necessary changes is raised to `main`
+- Package is published to npm on merge of the PR
+
 ### Guidelines to add icons
 
 -   Add svg files to respective folders of `svgLineIcons` and `svgPictograms` in `assets/icons/svgs`.
@@ -60,3 +66,8 @@ Note: `fill` prop is only valid for icons `BadgeWithTick`, `CircleWithCross`, `C
     -   When names changed or new icons added update them in `iconNames` file.
     -   Update the styles of the icons if changed or of new icons added in `iconSpecificStyles` file.
 -   To build, run `yarn build` and then for storybook run `yarn storybook`
+
+### Points to note when raising PR
+
+- Update the version of the current package in `package.json`
+- Before pushing it to new branch, run `yarn build` to build the package
