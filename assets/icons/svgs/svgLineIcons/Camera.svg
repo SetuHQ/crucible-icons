@@ -1,15 +1,38 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-	<defs>
-		<style>
-			.stroke {
-				stroke: #000;
-			}
-		</style>
-	</defs>
-	<path stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
-		d="M18,8h3V19H3V8H6L7.7,5.45A1,1,0,0,1,8.54,5h6.92a1,1,0,0,1,.84.45Z" />
-	<circle stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" cx="12" cy="13"
-		r="3" />
-	<line stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" x1="15" y1="8"
-		x2="15" y2="8" />
+    <defs>
+        <style>
+            .stroke {
+                stroke: #000;
+            }
+        </style>
+    </defs>
+    <path
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M18,8h3V19H3V8H6L7.7,5.45A1,1,0,0,1,8.54,5h6.92a1,1,0,0,1,.84.45Z"
+    />
+    <circle
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        cx="12"
+        cy="13"
+        r="3"
+    />
+    <line
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        x1="15"
+        y1="8"
+        x2="15"
+        y2="8"
+    />
 </svg>

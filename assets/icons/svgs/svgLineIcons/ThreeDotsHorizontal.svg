@@ -6,10 +6,34 @@
             }
         </style>
     </defs>
-    <circle stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" cx="17.5"
-        cy="12.5" r=".5" />
-    <circle stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" cx="11.5"
-        cy="12.5" r=".5" />
-    <circle stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" cx="5.5"
-        cy="12.5" r=".5" />
+    <circle
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        cx="17.5"
+        cy="12.5"
+        r=".5"
+    />
+    <circle
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        cx="11.5"
+        cy="12.5"
+        r=".5"
+    />
+    <circle
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        cx="5.5"
+        cy="12.5"
+        r=".5"
+    />
 </svg>

@@ -1,13 +1,30 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-	<defs>
-		<style>
-			.stroke {
-				stroke: #000;
-			}
-		</style>
-	</defs>
-	<circle stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" cx="11" cy="11"
-		r="7" />
-	<line stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" x1="16" y1="17"
-		x2="19" y2="20" />
+    <defs>
+        <style>
+            .stroke {
+                stroke: #000;
+            }
+        </style>
+    </defs>
+    <circle
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        cx="11"
+        cy="11"
+        r="7"
+    />
+    <line
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        x1="16"
+        y1="17"
+        x2="19"
+        y2="20"
+    />
 </svg>

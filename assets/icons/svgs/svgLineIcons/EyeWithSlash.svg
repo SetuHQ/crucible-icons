@@ -1,12 +1,27 @@
 <svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
     <defs>
         <style>
-            .stroke{
-                stroke:#000;
+            .stroke {
+                stroke: #000;
             }
         </style>
     </defs>
-    <circle class="stroke" fill="none" stroke-width="2" cx="12" cy="12" r="3"/>
-    <path class="stroke" fill="none" stroke-width="2" d="m3,12c1.53-3.52,4.97-6,9-6s7.47,2.48,9,6c-1.53,3.52-4.97,6-9,6s-7.47-2.48-9-6Z"/>
-    <line class="stroke" fill="none" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" x1="3" y1="3" x2="21" y2="21"/>
+    <circle class="stroke" fill="none" stroke-width="2" cx="12" cy="12" r="3" />
+    <path
+        class="stroke"
+        fill="none"
+        stroke-width="2"
+        d="m3,12c1.53-3.52,4.97-6,9-6s7.47,2.48,9,6c-1.53,3.52-4.97,6-9,6s-7.47-2.48-9-6Z"
+    />
+    <line
+        class="stroke"
+        fill="none"
+        stroke-width="2"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        x1="3"
+        y1="3"
+        x2="21"
+        y2="21"
+    />
 </svg>

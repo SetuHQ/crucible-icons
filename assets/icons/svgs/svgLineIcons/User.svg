@@ -1,15 +1,37 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-	<defs>
-		<style>
-			.stroke {
-				stroke: #000;
-			}
-		</style>
-	</defs>
-	<circle stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" cx="12" cy="12"
-		r="9" />
-	<circle stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" cx="12" cy="12"
-		r="3" />
-	<path stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
-		d="M7.17,19.61a9,9,0,0,1,9.71,0" />
+    <defs>
+        <style>
+            .stroke {
+                stroke: #000;
+            }
+        </style>
+    </defs>
+    <circle
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        cx="12"
+        cy="12"
+        r="9"
+    />
+    <circle
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        cx="12"
+        cy="12"
+        r="3"
+    />
+    <path
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M7.17,19.61a9,9,0,0,1,9.71,0"
+    />
 </svg>

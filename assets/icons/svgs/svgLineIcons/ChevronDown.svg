@@ -6,6 +6,12 @@
             }
         </style>
     </defs>
-    <polyline fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px"
-        points="21 8.5 12 15.5 3 8.5" />
+    <polyline
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2px"
+        points="21 8.5 12 15.5 3 8.5"
+    />
 </svg>

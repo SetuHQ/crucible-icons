@@ -2,11 +2,11 @@
     <defs>
         <style>
             .stroke {
-                stroke : #000;
+                stroke: #000;
             }
         </style>
     </defs>
-<path d="M3 12H15" class="stroke" fill="none"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M3 6L21 6" class="stroke" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M3 18H10" class="stroke" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M3 12H15" class="stroke" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M3 6L21 6" class="stroke" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M3 18H10" class="stroke" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
 </svg>

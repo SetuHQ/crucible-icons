@@ -2,15 +2,15 @@
     <defs>
         <style>
             .base {
-                fill: #B7CDE1
+                fill: #b7cde1;
             }
 
             .mix-blend-multiply {
-                mix-blend-mode: multiply
+                mix-blend-mode: multiply;
             }
 
             .primary {
-                fill: #42CACD
+                fill: #42cacd;
             }
         </style>
     </defs>
@@ -20,6 +20,7 @@
     <g class="mix-blend-multiply">
         <path
             d="M39.3333 36.8453C40.2222 37.3585 40.2222 38.6415 39.3333 39.1547L28.3333 45.5056C27.4444 46.0188 26.3333 45.3773 26.3333 44.3509L26.3333 31.6491C26.3333 30.6227 27.4444 29.9812 28.3333 30.4944L39.3333 36.8453Z"
-            class="primary" />
+            class="primary"
+        />
     </g>
 </svg>

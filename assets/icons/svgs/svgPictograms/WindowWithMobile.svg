@@ -28,10 +28,15 @@
     </defs>
     <g class="isolate">
         <g id="Layer_1" data-name="Layer 1">
-            <path class="base mix-blend-multiply"
-                d="M62,12H2a2,2,0,0,0-2,2V58a2,2,0,0,0,2,2H62a2,2,0,0,0,2-2V14A2,2,0,0,0,62,12Z" />
-            <path fill="#fff" opacity="0.4"
-                d="M59,21H5a1,1,0,0,0-1,1V55a1,1,0,0,0,1,1H59a1,1,0,0,0,1-1V22A1,1,0,0,0,59,21Z" />
+            <path
+                class="base mix-blend-multiply"
+                d="M62,12H2a2,2,0,0,0-2,2V58a2,2,0,0,0,2,2H62a2,2,0,0,0,2-2V14A2,2,0,0,0,62,12Z"
+            />
+            <path
+                fill="#fff"
+                opacity="0.4"
+                d="M59,21H5a1,1,0,0,0-1,1V55a1,1,0,0,0,1,1H59a1,1,0,0,0,1-1V22A1,1,0,0,0,59,21Z"
+            />
             <g class="mix-blend-multiply">
                 <path class="base" d="M5.5,18A1.5,1.5,0,1,0,4,16.5,1.5,1.5,0,0,0,5.5,18Z" />
             </g>
@@ -44,11 +49,16 @@
             <path class="primary" d="M9,32H31a1,1,0,0,1,1,1V56H8V33a1,1,0,0,1,1-1Z" />
             <path class="secondary" d="M31,26H9a1,1,0,0,0-1,1v2a1,1,0,0,0,1,1H31a1,1,0,0,0,1-1V27A1,1,0,0,0,31,26Z" />
             <path class="tertiary" d="M62,4H42a2,2,0,0,0-2,2V42a2,2,0,0,0,2,2H62a2,2,0,0,0,2-2V6A2,2,0,0,0,62,4Z" />
-            <path fill="#fff" opacity="0.4"
-                d="M61,6H43a1,1,0,0,0-1,1V37a1,1,0,0,0,1,1H61a1,1,0,0,0,1-1V7A1,1,0,0,0,61,6Z" />
+            <path
+                fill="#fff"
+                opacity="0.4"
+                d="M61,6H43a1,1,0,0,0-1,1V37a1,1,0,0,0,1,1H61a1,1,0,0,0,1-1V7A1,1,0,0,0,61,6Z"
+            />
             <path class="primary" d="M45,22h6a1,1,0,0,1,1,1V38H44V23a1,1,0,0,1,1-1Z" />
-            <path class="secondary"
-                d="M51.5,19h-7a.5.5,0,0,0-.5.5v1a.5.5,0,0,0,.5.5h7a.5.5,0,0,0,.5-.5v-1A.5.5,0,0,0,51.5,19Z" />
+            <path
+                class="secondary"
+                d="M51.5,19h-7a.5.5,0,0,0-.5.5v1a.5.5,0,0,0,.5.5h7a.5.5,0,0,0,.5-.5v-1A.5.5,0,0,0,51.5,19Z"
+            />
             <g class="mix-blend-multiply">
                 <path class="base" d="M53,40H51a1,1,0,0,0,0,2h2a1,1,0,0,0,0-2Z" />
             </g>
