@@ -1,13 +1,27 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-	<defs>
-		<style>
-			.stroke {
-				stroke: #000;
-			}
-		</style>
-	</defs>
-	<circle stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" cx="12" cy="12"
-		r="2.5" />
-	<path stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
-		d="M18.5,12a5.77,5.77,0,0,0-.09-1l2.38-1.75-2-3.46L16.09,7a6.4,6.4,0,0,0-1.76-1L14,3H10L9.67,5.94A6.4,6.4,0,0,0,7.91,7L5.21,5.77l-2,3.46L5.59,11a5.83,5.83,0,0,0,0,2L3.21,14.77l2,3.46,2.7-1.18a6.4,6.4,0,0,0,1.76,1L10,21h4l.33-2.94a6.4,6.4,0,0,0,1.76-1l2.7,1.18,2-3.46L18.41,13A5.77,5.77,0,0,0,18.5,12Z" />
+    <defs>
+        <style>
+            .stroke {
+                stroke: #000;
+            }
+        </style>
+    </defs>
+    <circle
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        cx="12"
+        cy="12"
+        r="2.5"
+    />
+    <path
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M18.5,12a5.77,5.77,0,0,0-.09-1l2.38-1.75-2-3.46L16.09,7a6.4,6.4,0,0,0-1.76-1L14,3H10L9.67,5.94A6.4,6.4,0,0,0,7.91,7L5.21,5.77l-2,3.46L5.59,11a5.83,5.83,0,0,0,0,2L3.21,14.77l2,3.46,2.7-1.18a6.4,6.4,0,0,0,1.76,1L10,21h4l.33-2.94a6.4,6.4,0,0,0,1.76-1l2.7,1.18,2-3.46L18.41,13A5.77,5.77,0,0,0,18.5,12Z"
+    />
 </svg>

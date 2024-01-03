@@ -2,7 +2,7 @@
     <defs>
         <style>
             .base {
-                fill: #FEB452;
+                fill: #feb452;
             }
 
             .mix-blend-multiply {
@@ -10,21 +10,30 @@
             }
 
             .primary {
-                fill: #42CACD;
+                fill: #42cacd;
             }
         </style>
     </defs>
-    <path fill-rule="evenodd" clip-rule="evenodd"
+    <path
+        fill-rule="evenodd"
+        clip-rule="evenodd"
         d="M31 60C43.7025 60 54 49.7025 54 37C54 24.2975 43.7025 14 31 14C18.2975 14 8 24.2975 8 37C8 49.7025 18.2975 60 31 60ZM31 54C40.3888 54 48 46.3888 48 37C48 27.6112 40.3888 20 31 20C21.6112 20 14 27.6112 14 37C14 46.3888 21.6112 54 31 54Z"
-        class="base" />
+        class="base"
+    />
     <g class="mix-blend-multiply">
-        <path fill-rule="evenodd" clip-rule="evenodd"
+        <path
+            fill-rule="evenodd"
+            clip-rule="evenodd"
             d="M31 60C43.7025 60 54 49.7025 54 37C54 24.2975 43.7025 14 31 14C18.2975 14 8 24.2975 8 37C8 49.7025 18.2975 60 31 60ZM31 54C40.3888 54 48 46.3888 48 37C48 27.6112 40.3888 20 31 20C21.6112 20 14 27.6112 14 37C14 46.3888 21.6112 54 31 54Z"
-            class="base" />
+            class="base"
+        />
     </g>
-    <path fill-rule="evenodd" clip-rule="evenodd"
+    <path
+        fill-rule="evenodd"
+        clip-rule="evenodd"
         d="M31 58C43.7025 58 54 47.7025 54 35C54 22.2975 43.7025 12 31 12C18.2975 12 8 22.2975 8 35C8 47.7025 18.2975 58 31 58ZM31 52C40.3888 52 48 44.3888 48 35C48 25.6112 40.3888 18 31 18C21.6112 18 14 25.6112 14 35C14 44.3888 21.6112 52 31 52Z"
-        class="base" />
+        class="base"
+    />
     <path d="M44 10.6667L32 24.4444L20 10.6667L24.8889 4H39.1111L44 10.6667Z" class="primary" />
     <g class="mix-blend-multiply" opacity="0.4">
         <path d="M25.7778 10.667H38.2223L32 24.4448" class="primary" />

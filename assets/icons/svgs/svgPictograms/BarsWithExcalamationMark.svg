@@ -1,5 +1,5 @@
 <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
-     <defs>
+    <defs>
         <style>
             .base {
                 fill: #b7cde1;
@@ -10,54 +10,64 @@
             }
 
             .primary {
-                fill: #F05656;
+                fill: #f05656;
             }
 
             .secondary {
-                fill: #ffffff
+                fill: #ffffff;
             }
         </style>
     </defs>
     <g class="mix-blend-multiply">
         <path
             d="M50.5 27C55.7467 27 60 22.7467 60 17.5C60 12.2533 55.7467 8 50.5 8C45.2533 8 41 12.2533 41 17.5C41 22.7467 45.2533 27 50.5 27Z"
-            fill="white" />
+            fill="white"
+        />
         <circle cx="50.5" cy="23.5" r="1.5" fill="white" />
         <rect x="49" y="10" width="3" height="11" rx="1.5" fill="white" />
     </g>
     <g class="mix-blend-multiply">
         <path
             d="M4 41V55C4 55.5523 4.44772 56 5 56H11C11.5523 56 12 55.5523 12 55V41C12 40.4477 11.5523 40 11 40H5C4.44772 40 4 40.4477 4 41Z"
-            fill="white" />
+            fill="white"
+        />
         <path
             d="M26 25V55C26 55.5523 26.4477 56 27 56H33C33.5523 56 34 55.5523 34 55V25C34 24.4477 33.5523 24 33 24H27C26.4477 24 26 24.4477 26 25Z"
-            fill="white" />
+            fill="white"
+        />
         <path
             d="M15 33V55C15 55.5523 15.4477 56 16 56H22C22.5523 56 23 55.5523 23 55V33C23 32.4477 22.5523 32 22 32H16C15.4477 32 15 32.4477 15 33Z"
-            fill="white" />
+            fill="white"
+        />
         <path
             d="M37 17V55C37 55.5523 37.4477 56 38 56H44C44.5523 56 45 55.5523 45 55V17C45 16.4477 44.5523 16 44 16H38C37.4477 16 37 16.4477 37 17Z"
-            fill="white" />
+            fill="white"
+        />
     </g>
     <g class="mix-blend-multiply">
         <path
             d="M50.5 27C55.7467 27 60 22.7467 60 17.5C60 12.2533 55.7467 8 50.5 8C45.2533 8 41 12.2533 41 17.5C41 22.7467 45.2533 27 50.5 27Z"
-            class="primary" />
+            class="primary"
+        />
         <circle cx="50.5" cy="23.5" r="1.5" class="secondary" />
         <rect x="49" y="10" width="3" height="11" rx="1.5" class="secondary" />
     </g>
     <g class="mix-blend-multiply">
         <path
             d="M4 41V55C4 55.5523 4.44772 56 5 56H11C11.5523 56 12 55.5523 12 55V41C12 40.4477 11.5523 40 11 40H5C4.44772 40 4 40.4477 4 41Z"
-            class="base" />
+            class="base"
+        />
         <path
             d="M26 25V55C26 55.5523 26.4477 56 27 56H33C33.5523 56 34 55.5523 34 55V25C34 24.4477 33.5523 24 33 24H27C26.4477 24 26 24.4477 26 25Z"
-            class="base" />
+            class="base"
+        />
         <path
             d="M15 33V55C15 55.5523 15.4477 56 16 56H22C22.5523 56 23 55.5523 23 55V33C23 32.4477 22.5523 32 22 32H16C15.4477 32 15 32.4477 15 33Z"
-            class="base" />
+            class="base"
+        />
         <path
             d="M37 17V55C37 55.5523 37.4477 56 38 56H44C44.5523 56 45 55.5523 45 55V17C45 16.4477 44.5523 16 44 16H38C37.4477 16 37 16.4477 37 17Z"
-            class="base" />
+            class="base"
+        />
     </g>
 </svg>

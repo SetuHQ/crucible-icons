@@ -2,17 +2,16 @@
     <defs>
         <style>
             .base {
-                fill: #B7CDE1
+                fill: #b7cde1;
             }
 
             .mix-blend-multiply {
-                mix-blend-mode: multiply
+                mix-blend-mode: multiply;
             }
 
             .primary {
-                fill: #42CACD
+                fill: #42cacd;
             }
-
         </style>
     </defs>
     <rect y="10" width="64" height="44" rx="2.0805" class="base" />
