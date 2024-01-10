@@ -10,7 +10,7 @@
             }
 
             .primary {
-                fill: #42CACD;
+                fill: #42cacd;
             }
         </style>
     </defs>

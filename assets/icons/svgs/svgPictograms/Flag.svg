@@ -1,42 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-	<defs>
-		<style>
-			.isolate {
-				isolation: isolate;
-			}
+    <defs>
+        <style>
+            .isolate {
+                isolation: isolate;
+            }
 
-			.base {
-				fill: #42cacd;
-			}
+            .base {
+                fill: #42cacd;
+            }
 
-			.tertiary {
-				fill: #009b99;
-			}
+            .tertiary {
+                fill: #009b99;
+            }
 
-			.mix-blend-multiply {
-				mix-blend-mode: multiply;
-			}
+            .mix-blend-multiply {
+                mix-blend-mode: multiply;
+            }
 
-			.primary {
-				fill: #b7cde1;
-			}
+            .primary {
+                fill: #b7cde1;
+            }
 
-			.secondary {
-				fill: #36a168;
-			}
-		</style>
-	</defs>
-	<g class="isolate">
-		<g id="Layer_1" data-name="Layer 1">
-			<path class="base" d="M60,12.43H33.71V33H60l-5-10.29Z" />
-			<path class="tertiary" d="M33.71,33l5.72-3.43V9l-5.72,3.43Z" />
-			<path class="base mix-blend-multiply" d="M39.43,9H12V29.57H39.43Z" />
-			<path class="primary"
-				d="M13.75,7h-.5A1.25,1.25,0,0,0,12,8.25v43.5A1.25,1.25,0,0,0,13.25,53h.5A1.25,1.25,0,0,0,15,51.75V8.25A1.25,1.25,0,0,0,13.75,7Z" />
-			<path class="primary"
-				d="M14.33,4H12.67a.67.67,0,0,0-.67.67V6.33a.67.67,0,0,0,.67.67h1.66A.67.67,0,0,0,15,6.33V4.67A.67.67,0,0,0,14.33,4Z" />
-			<path class="secondary"
-				d="M22,53a18.66,18.66,0,0,0-6.46-1A8,8,0,0,1,17,49a10.25,10.25,0,0,0-2.3,1.56A5.8,5.8,0,0,0,13.63,52H12a8.14,8.14,0,0,0-2.07-3.1A12.27,12.27,0,0,0,7,47s2.46,2.88,1.92,5.39A6.83,6.83,0,0,0,7,53c-1.25.68-2.67,2.37-3,7H29a11.93,11.93,0,0,0-7-7Z" />
-		</g>
-	</g>
+            .secondary {
+                fill: #36a168;
+            }
+        </style>
+    </defs>
+    <g class="isolate">
+        <g id="Layer_1" data-name="Layer 1">
+            <path class="base" d="M60,12.43H33.71V33H60l-5-10.29Z" />
+            <path class="tertiary" d="M33.71,33l5.72-3.43V9l-5.72,3.43Z" />
+            <path class="base mix-blend-multiply" d="M39.43,9H12V29.57H39.43Z" />
+            <path
+                class="primary"
+                d="M13.75,7h-.5A1.25,1.25,0,0,0,12,8.25v43.5A1.25,1.25,0,0,0,13.25,53h.5A1.25,1.25,0,0,0,15,51.75V8.25A1.25,1.25,0,0,0,13.75,7Z"
+            />
+            <path
+                class="primary"
+                d="M14.33,4H12.67a.67.67,0,0,0-.67.67V6.33a.67.67,0,0,0,.67.67h1.66A.67.67,0,0,0,15,6.33V4.67A.67.67,0,0,0,14.33,4Z"
+            />
+            <path
+                class="secondary"
+                d="M22,53a18.66,18.66,0,0,0-6.46-1A8,8,0,0,1,17,49a10.25,10.25,0,0,0-2.3,1.56A5.8,5.8,0,0,0,13.63,52H12a8.14,8.14,0,0,0-2.07-3.1A12.27,12.27,0,0,0,7,47s2.46,2.88,1.92,5.39A6.83,6.83,0,0,0,7,53c-1.25.68-2.67,2.37-3,7H29a11.93,11.93,0,0,0-7-7Z"
+            />
+        </g>
+    </g>
 </svg>

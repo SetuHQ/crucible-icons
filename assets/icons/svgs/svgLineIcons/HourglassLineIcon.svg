@@ -1,17 +1,47 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-	<defs>
-		<style>
-			.stroke {
-				stroke: #000;
-			}
-		</style>
-	</defs>
-	<line stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" x1="20" y1="3"
-		x2="4" y2="3" />
-	<line stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" x1="20" y1="21"
-		x2="4" y2="21" />
-	<path stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
-		d="M6,3C6,13.29,18,9.43,18,21" />
-	<path stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
-		d="M18,3C18,13.29,6,9.43,6,21" />
+    <defs>
+        <style>
+            .stroke {
+                stroke: #000;
+            }
+        </style>
+    </defs>
+    <line
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        x1="20"
+        y1="3"
+        x2="4"
+        y2="3"
+    />
+    <line
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        x1="20"
+        y1="21"
+        x2="4"
+        y2="21"
+    />
+    <path
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M6,3C6,13.29,18,9.43,18,21"
+    />
+    <path
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M18,3C18,13.29,6,9.43,6,21"
+    />
 </svg>

@@ -1,13 +1,25 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-	<defs>
-		<style>
-			.stroke {
-				stroke: #000;
-			}
-		</style>
-	</defs>
-	<path stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
-		d="M20,7C16,7,12,3,12,3S8,7,4,7C4,18,12,21,12,21S20,18,20,7Z" />
-	<path stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
-		d="M16,10c2,3-4,6-4,6s-6-3-4-6,4,1,4,1S14,7,16,10Z" />
+    <defs>
+        <style>
+            .stroke {
+                stroke: #000;
+            }
+        </style>
+    </defs>
+    <path
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M20,7C16,7,12,3,12,3S8,7,4,7C4,18,12,21,12,21S20,18,20,7Z"
+    />
+    <path
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M16,10c2,3-4,6-4,6s-6-3-4-6,4,1,4,1S14,7,16,10Z"
+    />
 </svg>

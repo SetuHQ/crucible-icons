@@ -30,7 +30,7 @@ export const Braces = React.forwardRef<SVGSVGElement, LineIconProps>(
                     <path
                         strokeWidth="2"
                         fill="none"
-                        className=" stroke "
+                        className="stroke"
                         strokeLinecap="round"
                         strokeLinejoin="round"
                         d="M9,4H8A2,2,0,0,0,6,6V9a3,3,0,0,1-3,3H3a3,3,0,0,1,3,3v3a2,2,0,0,0,2,2H9"

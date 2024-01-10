@@ -1,6 +1,6 @@
 {
     "name": "@setu/crucible-icons",
-    "version": "1.0.2",
+    "version": "1.0.5",
     "description": "Crucible Icons package",
     "license": "MIT",
     "main": "./dist/cjs/index.js",
@@ -29,7 +29,7 @@
         "cz": "git cz",
         "build-storybook": "build-storybook -c .storybook -o public",
         "prepare": "husky install",
-        "pre-commit": "prettier --write ./src/**",
+        "pre-commit": "prettier --write ./src/** && prettier --write --parser html '**/*.svg'",
         "czcheck": "node scripts/no-manual-committing"
     },
     "devDependencies": {

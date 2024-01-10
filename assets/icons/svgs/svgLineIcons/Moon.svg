@@ -1,11 +1,17 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-	<defs>
-		<style>
-			.stroke {
-				stroke: #000;
-			}
-		</style>
-	</defs>
-	<path stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
-		d="M17.78,13.73A5.81,5.81,0,0,1,16,14a6,6,0,0,1-6-6,5.86,5.86,0,0,1,.26-1.74L10,6.34A6,6,0,1,0,17.66,14Z" />
+    <defs>
+        <style>
+            .stroke {
+                stroke: #000;
+            }
+        </style>
+    </defs>
+    <path
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M17.78,13.73A5.81,5.81,0,0,1,16,14a6,6,0,0,1-6-6,5.86,5.86,0,0,1,.26-1.74L10,6.34A6,6,0,1,0,17.66,14Z"
+    />
 </svg>

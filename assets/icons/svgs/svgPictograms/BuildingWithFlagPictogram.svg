@@ -14,41 +14,101 @@
             }
         </style>
     </defs>
-    <rect x="10.6667" y="57.3335" width="22.6667" height="4" rx="1.33333" transform="rotate(-90 10.6667 57.3335)"
-        fill="white" />
+    <rect
+        x="10.6667"
+        y="57.3335"
+        width="22.6667"
+        height="4"
+        rx="1.33333"
+        transform="rotate(-90 10.6667 57.3335)"
+        fill="white"
+    />
     <rect x="48" y="57.3335" width="22.6667" height="4" rx="1.33333" transform="rotate(-90 48 57.3335)" fill="white" />
-    <rect x="38.6667" y="57.3335" width="22.6667" height="4" rx="1.33333" transform="rotate(-90 38.6667 57.3335)"
-        fill="white" />
+    <rect
+        x="38.6667"
+        y="57.3335"
+        width="22.6667"
+        height="4"
+        rx="1.33333"
+        transform="rotate(-90 38.6667 57.3335)"
+        fill="white"
+    />
     <rect x="20" y="57.3335" width="22.6667" height="4" rx="1.33333" transform="rotate(-90 20 57.3335)" fill="white" />
-    <rect x="29.3333" y="57.3335" width="22.6667" height="4" rx="1.33333" transform="rotate(-90 29.3333 57.3335)"
-        fill="white" />
+    <rect
+        x="29.3333"
+        y="57.3335"
+        width="22.6667"
+        height="4"
+        rx="1.33333"
+        transform="rotate(-90 29.3333 57.3335)"
+        fill="white"
+    />
     <rect x="30.6851" y="13.3203" width="9.32001" height="2" transform="rotate(-90 30.6851 13.3203)" class="primary" />
     <path
         d="M40.4199 10.4897C41.1563 10.4897 41.7532 9.89279 41.7532 9.15641V5.33352C41.7532 4.59714 41.1563 4.00018 40.4199 4.00018L32.6851 4.00018V10.4897H40.4199Z"
-        class="primary" />
+        class="primary"
+    />
     <rect x="5.33333" y="33.3335" width="53.3333" height="4" rx="2" class="base" />
     <rect x="5.33333" y="54.6665" width="53.3333" height="5.33333" rx="1.33333" class="base" />
-    <path fill-rule="evenodd" clip-rule="evenodd"
+    <path
+        fill-rule="evenodd"
+        clip-rule="evenodd"
         d="M56 37.333C55.9998 24.0783 45.2547 13.3333 32 13.3333C18.7453 13.3333 8.00016 24.0783 8 37.333L56 37.333Z"
-        class="base" />
+        class="base"
+    />
     <g class="mix-blend-multiply">
-        <rect x="10.6667" y="57.3335" width="22.6667" height="4" rx="1.33333" transform="rotate(-90 10.6667 57.3335)"
-            class="primary" />
+        <rect
+            x="10.6667"
+            y="57.3335"
+            width="22.6667"
+            height="4"
+            rx="1.33333"
+            transform="rotate(-90 10.6667 57.3335)"
+            class="primary"
+        />
     </g>
     <g class="mix-blend-multiply">
-        <rect x="48" y="57.3335" width="22.6667" height="4" rx="1.33333" transform="rotate(-90 48 57.3335)"
-            class="primary" />
+        <rect
+            x="48"
+            y="57.3335"
+            width="22.6667"
+            height="4"
+            rx="1.33333"
+            transform="rotate(-90 48 57.3335)"
+            class="primary"
+        />
     </g>
     <g class="mix-blend-multiply">
-        <rect x="38.6667" y="57.3335" width="22.6667" height="4" rx="1.33333" transform="rotate(-90 38.6667 57.3335)"
-            class="primary" />
+        <rect
+            x="38.6667"
+            y="57.3335"
+            width="22.6667"
+            height="4"
+            rx="1.33333"
+            transform="rotate(-90 38.6667 57.3335)"
+            class="primary"
+        />
     </g>
     <g class="mix-blend-multiply">
-        <rect x="20" y="57.3335" width="22.6667" height="4" rx="1.33333" transform="rotate(-90 20 57.3335)"
-            class="primary" />
+        <rect
+            x="20"
+            y="57.3335"
+            width="22.6667"
+            height="4"
+            rx="1.33333"
+            transform="rotate(-90 20 57.3335)"
+            class="primary"
+        />
     </g>
     <g class="mix-blend-multiply">
-        <rect x="29.3333" y="57.3335" width="22.6667" height="4" rx="1.33333" transform="rotate(-90 29.3333 57.3335)"
-            class="primary" />
+        <rect
+            x="29.3333"
+            y="57.3335"
+            width="22.6667"
+            height="4"
+            rx="1.33333"
+            transform="rotate(-90 29.3333 57.3335)"
+            class="primary"
+        />
     </g>
 </svg>
