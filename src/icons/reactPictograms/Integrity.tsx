@@ -35,7 +35,7 @@ export const Integrity = React.forwardRef<SVGSVGElement, PictogramIconProps>(
                                 className="base mix-blend-multiply"
                                 points="59 28 46 28 40 13 48 13 59 28"
                             />
-                            <polygon className="primary " opacity="0.3" points="5 28 18 28 24 13 16 13 5 28" />
+                            <polygon className="primary" opacity="0.3" points="5 28 18 28 24 13 16 13 5 28" />
                             <polyline opacity="0.1" className="primary" points="5 28 18 28 32 59" />
                             <polyline className="base mix-blend-multiply" points="59 28 46 28 32 59" />
                         </g>

@@ -5,7 +5,7 @@ import * as React from "react";
 import { LineIconProps } from "../../types";
 import { SVGLineIconWrapper } from "../../styles";
 
-export const Braces = React.forwardRef<SVGSVGElement, LineIconProps>(
+export const Play = React.forwardRef<SVGSVGElement, LineIconProps>(
     ({ width = 24, height = 24, ...props }, forwardedRef) => {
         return (
             <SVGLineIconWrapper {...props}>
@@ -13,27 +13,24 @@ export const Braces = React.forwardRef<SVGSVGElement, LineIconProps>(
                     width={width}
                     height={height}
                     ref={forwardedRef}
-                    id="Layer_1"
-                    data-name="Layer 1"
-                    xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 24 24"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
                 >
                     <defs></defs>
                     <path
-                        strokeWidth="2"
-                        fill="none"
+                        d="M12 21C16.9706 21 21 16.9706 21 12C21 7.02944 16.9706 3 12 3C7.02944 3 3 7.02944 3 12C3 16.9706 7.02944 21 12 21Z"
                         className="stroke"
+                        strokeWidth="2"
                         strokeLinecap="round"
                         strokeLinejoin="round"
-                        d="M15,4h1a2,2,0,0,1,2,2V9a3,3,0,0,0,3,3h0a3,3,0,0,0-3,3v3a2,2,0,0,1-2,2H15"
                     />
                     <path
-                        strokeWidth="2"
-                        fill="none"
+                        d="M16 12.0001L9 8L9.00025 16L16 12.0001Z"
                         className="stroke"
+                        strokeWidth="2"
                         strokeLinecap="round"
                         strokeLinejoin="round"
-                        d="M9,4H8A2,2,0,0,0,6,6V9a3,3,0,0,1-3,3H3a3,3,0,0,1,3,3v3a2,2,0,0,0,2,2H9"
                     />
                 </svg>
             </SVGLineIconWrapper>
@@ -41,6 +38,6 @@ export const Braces = React.forwardRef<SVGSVGElement, LineIconProps>(
     }
 );
 
-Braces.displayName = "Braces";
+Play.displayName = "Play";
 
-export default Braces;
+export default Play;
