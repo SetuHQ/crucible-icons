@@ -6,6 +6,10 @@
 [![Downloads](https://img.shields.io/npm/dw/@setu/crucible-icons?color=%23FEB452)](https://www.npmjs.org/package/@setu/crucible-icons)
 [![License](https://img.shields.io/npm/l/@setu/crucible-icons?color=%23FE90A0)](LICENSE.md)
 
+## Activity
+
+![Alt](https://repobeats.axiom.co/api/embed/f5c43cd3cf9905b1a8810e410546863a31930f84.svg "Repobeats analytics image")
+
 ### Installation
 
 ```bash
