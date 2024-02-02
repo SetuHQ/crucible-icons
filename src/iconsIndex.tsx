@@ -117,6 +117,7 @@ export { default as MobileWithOffer } from "./icons/reactPictograms/MobileWithOf
 export { default as MobileWithRupee } from "./icons/reactPictograms/MobileWithRupee";
 export { default as MobileWithTag } from "./icons/reactPictograms/MobileWithTag";
 export { default as MobileWithUpi } from "./icons/reactPictograms/MobileWithUpi";
+export { default as MobilityCard } from "./icons/reactPictograms/MobilityCard";
 export { default as ModemPictogram } from "./icons/reactPictograms/ModemPictogram";
 export { default as Necklace } from "./icons/reactPictograms/Necklace";
 export { default as Newspaper } from "./icons/reactPictograms/Newspaper";
