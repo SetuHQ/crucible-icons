@@ -114,6 +114,7 @@ export { default as MobileWithOffer } from "./MobileWithOffer";
 export { default as MobileWithRupee } from "./MobileWithRupee";
 export { default as MobileWithTag } from "./MobileWithTag";
 export { default as MobileWithUpi } from "./MobileWithUpi";
+export { default as MobilityCard } from "./MobilityCard";
 export { default as ModemPictogram } from "./ModemPictogram";
 export { default as Necklace } from "./Necklace";
 export { default as Newspaper } from "./Newspaper";

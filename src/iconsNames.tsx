@@ -117,6 +117,7 @@ export const PictogramsNames = {
     MobileWithRupee                 : "MobileWithRupee",
     MobileWithTag                   : "MobileWithTag" ,
     MobileWithUpi                   : "MobileWithUpi" ,
+    MobilityCard : "MobilityCard",
     ModemPictogram                  : "ModemPictogram",
     Newspaper                       : "Newspaper" ,
     Note                            : "Note" ,

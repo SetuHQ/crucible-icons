@@ -675,6 +675,13 @@ export const iconSpecificStyles: IconStylesTypes = {
         tertiary    : "#d9782d",
     },
 
+    [PictogramsNames.MobilityCard]: {
+        base        : "#b7cde1",
+        primary     : "#42cacd",
+        secondary   : "#FEB452",
+        tertiary    : "#36A168",
+    },
+
     [PictogramsNames.ModemPictogram]: {
         base        : "#b7cde1",
         primary     : "#42CACD",
