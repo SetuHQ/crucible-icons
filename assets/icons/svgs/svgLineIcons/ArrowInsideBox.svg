@@ -1,0 +1,12 @@
+<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+    <style>
+        .stroke {
+            stroke : #000
+        }
+        </style>
+    </defs>
+<path d="M11 8L6 12L11 16" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17 12H7" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M3 8.0625V4.125C3 3.50368 3.44772 3 4 3H20C20.5523 3 21 3.50368 21 4.125V19.875C21 20.4963 20.5523 21 20 21H4C3.44772 21 3 20.4963 3 19.875L3 15.9375" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
