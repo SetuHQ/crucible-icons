@@ -1,4 +1,5 @@
 export { default as Alphabets } from "./Alphabets";
+export { default as ArrowInsideBox } from "./ArrowInsideBox";
 export { default as ArrowLeft } from "./ArrowLeft";
 export { default as ArrowRight } from "./ArrowRight";
 export { default as ArrowsOpposite } from "./ArrowsOpposite";
