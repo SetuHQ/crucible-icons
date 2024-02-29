@@ -196,6 +196,7 @@ export { default as eSign } from "./icons/reactPictograms/eSign";
 
 // ReactLineIcons
 export { default as Alphabets } from "./icons/reactLineIcons/Alphabets";
+export { default as ArrowInsideBox } from "./icons/reactLineIcons/ArrowInsideBox";
 export { default as ArrowLeft } from "./icons/reactLineIcons/ArrowLeft";
 export { default as ArrowRight } from "./icons/reactLineIcons/ArrowRight";
 export { default as ArrowsOpposite } from "./icons/reactLineIcons/ArrowsOpposite";
