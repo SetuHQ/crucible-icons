@@ -25,7 +25,9 @@ export { default as BookWithKarmaSymbol } from "./icons/reactPictograms/BookWith
 export { default as BoxWithBraces } from "./icons/reactPictograms/BoxWithBraces";
 export { default as BoxWithCash } from "./icons/reactPictograms/BoxWithCash";
 export { default as BoxWithCoin } from "./icons/reactPictograms/BoxWithCoin";
+export { default as BoxWithLeftArrow } from "./icons/reactPictograms/BoxWithLeftArrow";
 export { default as BoxWithMobile } from "./icons/reactPictograms/BoxWithMobile";
+export { default as BoxWithRightArrow } from "./icons/reactPictograms/BoxWithRightArrow";
 export { default as BoxWithShapes } from "./icons/reactPictograms/BoxWithShapes";
 export { default as BoxWithStar } from "./icons/reactPictograms/BoxWithStar";
 export { default as Brain } from "./icons/reactPictograms/Brain";
