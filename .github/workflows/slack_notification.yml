@@ -23,4 +23,4 @@ jobs:
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: |
-          curl -X POST -H 'Content-type: application/json' --data '{"mrkdwn": "Successfully published `@setu/crucible-icons`! Version : ${{ steps.extract_version.outputs.version }}\nCheck out the GitHub PR <https://github.com/SetuHQ/crucible-icons/pull/${{ github.event.pull_request.number }}|here> for more details"}' $SLACK_WEBHOOK_URL
+          curl -X POST -H 'Content-type: application/json' --data '{"text": "Successfully published a new version - *`${{ steps.extract_version.outputs.version }}`*\nPackage - `@setu/crucible-icons`\nCheck out the GitHub PR <https://github.com/SetuHQ/crucible-icons/pull/${{ github.event.pull_request.number }}|here> for more details"}' $SLACK_WEBHOOK_URL
