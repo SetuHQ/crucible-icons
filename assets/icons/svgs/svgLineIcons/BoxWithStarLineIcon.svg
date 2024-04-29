@@ -8,7 +8,11 @@
     </defs>
     <path
         d="M20 9C20.2652 9 20.5196 9.10536 20.7071 9.29289C20.8946 9.48043 21 9.73478 21 10V15C21 15.2652 20.8946 15.5196 20.7071 15.7071C20.5196 15.8946 20.2652 16 20 16H4C3.73478 16 3.48043 15.8946 3.29289 15.7071C3.10536 15.5196 3 15.2652 3 15V10C3 9.73478 3.10536 9.48043 3.29289 9.29289C3.48043 9.10536 3.73478 9 4 9H8"
-        class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+        class="stroke"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+    />
     <path d="M14 6V8" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
     <path d="M11 8L13 9" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
     <path d="M12 12L14 9" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />

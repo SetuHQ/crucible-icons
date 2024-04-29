@@ -1,17 +1,44 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-	<defs>
-		<style>
-			.stroke {
-				stroke: #000;
-			}
-		</style>
-	</defs>
-	<rect stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" x="4" y="7"
-		width="13" height="13" />
-	<polyline stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
-		points="7 7 7 4 20 4 20 17 18 17" />
-	<path stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
-		d="M10.85,10A3.34,3.34,0,0,1,14,13.5,3.34,3.34,0,0,1,10.85,17,3.15,3.15,0,0,1,8,15" />
-	<polyline stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
-		points="9.21 14.32 7.57 13 6.79 15" />
+    <defs>
+        <style>
+            .stroke {
+                stroke: #000;
+            }
+        </style>
+    </defs>
+    <rect
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        x="4"
+        y="7"
+        width="13"
+        height="13"
+    />
+    <polyline
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        points="7 7 7 4 20 4 20 17 18 17"
+    />
+    <path
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M10.85,10A3.34,3.34,0,0,1,14,13.5,3.34,3.34,0,0,1,10.85,17,3.15,3.15,0,0,1,8,15"
+    />
+    <polyline
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        points="9.21 14.32 7.57 13 6.79 15"
+    />
 </svg>

@@ -1,23 +1,86 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-	<defs>
-		<style>
-			.stroke {
-				stroke: #000;
-			}
-		</style>
-	</defs>
-	<rect stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" x="3" y="6"
-		width="9" height="4" />
-	<rect stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" x="12" y="6"
-		width="9" height="4" />
-	<rect stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" x="7" y="10"
-		width="10" height="4" />
-	<rect stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" x="17" y="10"
-		width="4" height="4" />
-	<rect stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" x="3" y="10"
-		width="4" height="4" />
-	<rect stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" x="3" y="14"
-		width="9" height="4" />
-	<rect stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" x="12" y="14"
-		width="9" height="4" />
+    <defs>
+        <style>
+            .stroke {
+                stroke: #000;
+            }
+        </style>
+    </defs>
+    <rect
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        x="3"
+        y="6"
+        width="9"
+        height="4"
+    />
+    <rect
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        x="12"
+        y="6"
+        width="9"
+        height="4"
+    />
+    <rect
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        x="7"
+        y="10"
+        width="10"
+        height="4"
+    />
+    <rect
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        x="17"
+        y="10"
+        width="4"
+        height="4"
+    />
+    <rect
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        x="3"
+        y="10"
+        width="4"
+        height="4"
+    />
+    <rect
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        x="3"
+        y="14"
+        width="9"
+        height="4"
+    />
+    <rect
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        x="12"
+        y="14"
+        width="9"
+        height="4"
+    />
 </svg>

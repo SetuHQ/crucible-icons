@@ -10,7 +10,7 @@
             }
 
             .primary {
-                fill: #F05656;
+                fill: #f05656;
             }
         </style>
     </defs>

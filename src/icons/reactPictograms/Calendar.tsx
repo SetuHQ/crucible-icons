@@ -21,7 +21,7 @@ export const Calendar = React.forwardRef<SVGSVGElement, PictogramIconProps>(
                     <g className="isolate">
                         <g id="Layer_1" data-name="Layer 1">
                             <path className="base" d="M4,21H60V58a2,2,0,0,1-2,2H6a2,2,0,0,1-2-2Z" />
-                            <g className="mix-blend-multiply ">
+                            <g className="mix-blend-multiply">
                                 <path className="primary" d="M6,7H58a2,2,0,0,1,2,2V24H4V9A2,2,0,0,1,6,7Z" />
                             </g>
                             <g className="mix-blend-multiply">

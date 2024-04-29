@@ -141,6 +141,11 @@ export const iconSpecificStyles: IconStylesTypes = {
         secondary   : "#42CACD",
     },
 
+    [PictogramsNames.BoxWithCoin]: {
+        base        : "#B7CDE1",
+        primary     : "#FEB452"
+    },
+
     [PictogramsNames.BoxWithMobile]: {
         base        : "#b7cde1",
         primary     : "#42cacd",
@@ -158,6 +163,16 @@ export const iconSpecificStyles: IconStylesTypes = {
         base        : "#b7cde1",
         primary     : "#feb452",
         secondary   : "#42cacd",
+    },
+
+    [PictogramsNames.BoxWithLeftArrow]: {
+        base        : "#b7cde1",
+        primary     : "#42CACD",
+    },
+
+     [PictogramsNames.BoxWithRightArrow]: {
+        base        : "#b7cde1",
+        primary     : "#42CACD",
     },
 
     [PictogramsNames.Brain]: {
@@ -255,7 +270,11 @@ export const iconSpecificStyles: IconStylesTypes = {
     [PictogramsNames.ChatBubbles]: {
         base        : "#b7cde1",
         primary     : "#42CACD",
-    },  
+    },
+    [PictogramsNames.ChatBot]: {
+        base        : "#42CACD",
+        primary     : "#FEB452",
+    },
 
     [PictogramsNames.Checklist]: {
         base        : "#b7cde1",
@@ -577,7 +596,6 @@ export const iconSpecificStyles: IconStylesTypes = {
         base        : "#b7cde1",
         primary     : "#42CACD",
     },
-    
     [PictogramsNames.Metro]: {
         base        : "#b7cde1",
         primary     : "#42CACD",
@@ -666,6 +684,13 @@ export const iconSpecificStyles: IconStylesTypes = {
         tertiary    : "#d9782d",
     },
 
+    [PictogramsNames.MobilityCard]: {
+        base        : "#b7cde1",
+        primary     : "#42cacd",
+        secondary   : "#FEB452",
+        tertiary    : "#36A168",
+    },
+
     [PictogramsNames.ModemPictogram]: {
         base        : "#b7cde1",
         primary     : "#42CACD",
@@ -687,6 +712,13 @@ export const iconSpecificStyles: IconStylesTypes = {
         primary     : "#00cfcf",
     },
 
+    [PictogramsNames.Necklace]: {
+        base        : "#f2ad3d",
+        primary     : "#b7cde1",
+        secondary   : "#F05656",
+        tertiary    : "#F26767",
+    },
+
     [PictogramsNames.ONDC]: {
         base        : "#FE90A0",
         primary     : "#625db9",
@@ -701,6 +733,10 @@ export const iconSpecificStyles: IconStylesTypes = {
     [PictogramsNames.PaintRoller]: {
         base        : "#85b2d3",
         primary     : "#00ccce",
+    },
+    [PictogramsNames.PanWithExclamation]: {
+        base        : "#B7CDE1",
+        primary     : "#F05656",
     },
 
     [PictogramsNames.PaperWithCoin]: {
@@ -801,6 +837,10 @@ export const iconSpecificStyles: IconStylesTypes = {
         base        : "#b7cde1",
         primary     : "#42cacd",
     },
+    [PictogramsNames.PersonWithPuzzlePiece]: {
+        base        : "#b7cde1",
+        primary     : "#feb452",
+    },
 
     [PictogramsNames.PersonWithSettings]: {
         base        : "#b7cde1",
@@ -813,6 +853,11 @@ export const iconSpecificStyles: IconStylesTypes = {
         primary     : "#FEB452",
         secondary   : "#B7CDE1",
         tertiary    : "#F05656"
+    },
+
+    [PictogramsNames.PersonWithQuestionMark]: {
+        base        : "#B7CDE1",
+        primary     : "#42cacd",
     },
 
     [PictogramsNames.PlantWithLeaves]: {
@@ -831,7 +876,7 @@ export const iconSpecificStyles: IconStylesTypes = {
         base        : "#b7cde1",
         primary     : "#09cdcd",
     },
-    
+
     [PictogramsNames.RingWithDiamond]: {
         base        : "#FEB452",
         primary     : "#42CACD",

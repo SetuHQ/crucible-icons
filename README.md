@@ -2,6 +2,14 @@
 
 ## Setu’s icons package that lets designers and developers ship fast!
 
+[![Version](https://img.shields.io/npm/v/@setu/crucible-icons?color=%2320014B)](https://www.npmjs.org/package/@setu/crucible-icons)
+[![Downloads](https://img.shields.io/npm/dw/@setu/crucible-icons?color=%23FEB452)](https://www.npmjs.org/package/@setu/crucible-icons)
+[![License](https://img.shields.io/npm/l/@setu/crucible-icons?color=%23FE90A0)](LICENSE.md)
+
+## Activity
+
+![Alt](https://repobeats.axiom.co/api/embed/f5c43cd3cf9905b1a8810e410546863a31930f84.svg "Repobeats analytics image")
+
 ### Installation
 
 ```bash
@@ -50,9 +58,9 @@ Note: `fill` prop is only valid for icons `BadgeWithTick`, `CircleWithCross`, `C
 
 ### Contributing to the package
 
-- Create an issue with the icon/s that needs to be added to the package
-- The issue is reviewed and a PR with all the necessary changes is raised to `main`
-- Package is published to npm on merge of the PR
+-   Create an issue with the icon/s that needs to be added to the package
+-   The issue is reviewed and a PR with all the necessary changes is raised to `main`
+-   Package is published to npm on merge of the PR
 
 ### Guidelines to add icons
 
@@ -69,5 +77,5 @@ Note: `fill` prop is only valid for icons `BadgeWithTick`, `CircleWithCross`, `C
 
 ### Points to note when raising PR
 
-- Update the version of the current package in `package.json`
-- Before pushing it to new branch, run `yarn build` to build the package
+-   Update the version of the current package in `package.json`
+-   Before pushing it to new branch, run `yarn build` to build the package

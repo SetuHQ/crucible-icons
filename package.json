@@ -1,11 +1,11 @@
 {
     "name": "@setu/crucible-icons",
-    "version": "1.0.1",
+    "version": "1.0.9",
     "description": "Crucible Icons package",
     "license": "MIT",
     "main": "./dist/cjs/index.js",
     "module": "./dist/esm/index.js",
-    "types": "./dist/types/index.d.ts",
+    "types": "./dist/types/src/index.d.ts",
     "sideEffects": false,
     "files": [
         "dist"
@@ -13,7 +13,7 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/SetuHQ/crucible-icons.git"
-      },
+    },
     "scripts": {
         "build:cjs": "BABEL_ENV=commonjs babel ./src --config-file ./.babelrc --out-dir ./dist/cjs --extensions .ts,.tsx --copy-files --no-copy-ignored",
         "build:esm": "BABEL_ENV=es6 babel ./src --config-file ./.babelrc --out-dir ./dist/esm --extensions .ts,.tsx --copy-files --no-copy-ignored",
@@ -29,7 +29,7 @@
         "cz": "git cz",
         "build-storybook": "build-storybook -c .storybook -o public",
         "prepare": "husky install",
-        "pre-commit": "prettier --write ./src/**",
+        "pre-commit": "prettier --write ./src/** && prettier --write --parser html '**/*.svg'",
         "czcheck": "node scripts/no-manual-committing"
     },
     "devDependencies": {

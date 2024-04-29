@@ -8,6 +8,10 @@
     </defs>
     <path
         d="M3 4.125L3 19.875C3 20.4963 3.44772 21 4 21H20C20.5523 21 21 20.4963 21 19.875V4.125C21 3.50368 20.5523 3 20 3H4C3.44772 3 3 3.50368 3 4.125Z"
-        class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+        class="stroke"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+    />
     <path d="M6 14L9 17L18 7" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
 </svg>

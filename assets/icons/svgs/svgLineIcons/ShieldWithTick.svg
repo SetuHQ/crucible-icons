@@ -1,17 +1,41 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-	<defs>
-		<style>
-			.stroke {
-				stroke: #000;
-			}
-		</style>
-	</defs>
-	<path stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
-		d="M4,6v6c0,3,3,7,8,9,5-2,8-6,8-9V6" />
-	<polyline stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
-		points="9 13 11 15 16 10" />
-	<path stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
-		d="M12,3A11.35,11.35,0,0,1,4,6" />
-	<path stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
-		d="M12,3a11.35,11.35,0,0,0,8,3" />
+    <defs>
+        <style>
+            .stroke {
+                stroke: #000;
+            }
+        </style>
+    </defs>
+    <path
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M4,6v6c0,3,3,7,8,9,5-2,8-6,8-9V6"
+    />
+    <polyline
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        points="9 13 11 15 16 10"
+    />
+    <path
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M12,3A11.35,11.35,0,0,1,4,6"
+    />
+    <path
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M12,3a11.35,11.35,0,0,0,8,3"
+    />
 </svg>
