@@ -494,6 +494,13 @@ export const iconSpecificStyles: IconStylesTypes = {
         primary     : "#00cfcf",
     },
 
+    [PictogramsNames.Groceries]: {
+        base        : "#b7cde1",
+        primary     : "#42cacd",
+        secondary   : "#1482ff",
+        tertiary    : "#f7993b"
+    },
+
     [PictogramsNames.GrowthMindset]: {
         base        : "#ffab00",
         primary     : "#00ccce",
@@ -923,6 +930,12 @@ export const iconSpecificStyles: IconStylesTypes = {
         secondary   : "#ffffff",
     },
 
+    [PictogramsNames.ShoppingBags]: {
+        base        : "#b7cde1",
+        primary     : "#42cacd",
+        secondary   : "#feb452",
+    },
+
     [PictogramsNames.Signpost]: {
         base        : "#b7cde1",
         primary     : "#42cacd",
@@ -945,6 +958,12 @@ export const iconSpecificStyles: IconStylesTypes = {
         base        : "#b7cde1",
         primary     : "#42cacd",
         secondary   : "#feb452",
+    },
+
+    [PictogramsNames.SunsetWithCoin]: {
+        base        : "#feb452",
+        primary     : "#b7cde1",
+        secondary   : "#ffffff",
     },
 
     [PictogramsNames.TabletWithPen]: {
@@ -989,6 +1008,14 @@ export const iconSpecificStyles: IconStylesTypes = {
     [PictogramsNames.TV]: {
         base        : "#b7cde1",
         primary     : "#42cacd",
+    },
+
+    [PictogramsNames.UmbrellaWithCoinAndCash]: {
+        base        : "#b7cde1",
+        primary     : "#36a168",
+        secondary   : "#FEB452",
+        tertiary    : "#ffffff",
+
     },
 
     [PictogramsNames.UPI]: {
