@@ -85,6 +85,7 @@ export { default as FolderWithShield } from "./icons/reactPictograms/FolderWithS
 export { default as FunnelWithPlusSymbol } from "./icons/reactPictograms/FunnelWithPlusSymbol";
 export { default as GasPipe } from "./icons/reactPictograms/GasPipe";
 export { default as GraphBar } from "./icons/reactPictograms/GraphBar";
+export { default as Groceries } from "./icons/reactPictograms/Groceries";
 export { default as GrowthMindset } from "./icons/reactPictograms/GrowthMindset";
 export { default as GuyFawkesMask } from "./icons/reactPictograms/GuyFawkesMask";
 export { default as Hat } from "./icons/reactPictograms/Hat";
@@ -162,9 +163,11 @@ export { default as ScreenWithPlayButton } from "./icons/reactPictograms/ScreenW
 export { default as Servers } from "./icons/reactPictograms/Servers";
 export { default as Shield } from "./icons/reactPictograms/Shield";
 export { default as ShieldWithTickPictogram } from "./icons/reactPictograms/ShieldWithTickPictogram";
+export { default as ShoppingBags } from "./icons/reactPictograms/ShoppingBags";
 export { default as Signpost } from "./icons/reactPictograms/Signpost";
 export { default as StampWithTick } from "./icons/reactPictograms/StampWithTick";
 export { default as Stopwatch } from "./icons/reactPictograms/Stopwatch";
+export { default as SunsetWithCoin } from "./icons/reactPictograms/SunsetWithCoin";
 export { default as TV } from "./icons/reactPictograms/TV";
 export { default as TabletWithPen } from "./icons/reactPictograms/TabletWithPen";
 export { default as Team } from "./icons/reactPictograms/Team";
@@ -174,6 +177,7 @@ export { default as Ticket } from "./icons/reactPictograms/Ticket";
 export { default as Tools } from "./icons/reactPictograms/Tools";
 export { default as Transactions } from "./icons/reactPictograms/Transactions";
 export { default as UPI } from "./icons/reactPictograms/UPI";
+export { default as UmbrellaWithCoinAndCash } from "./icons/reactPictograms/UmbrellaWithCoinAndCash";
 export { default as Wave } from "./icons/reactPictograms/Wave";
 export { default as WebSettings } from "./icons/reactPictograms/WebSettings";
 export { default as Window } from "./icons/reactPictograms/Window";
