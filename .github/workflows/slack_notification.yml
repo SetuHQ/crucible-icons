@@ -1,0 +1,26 @@
+name: Slack Notification on PR Merge
+
+on:
+  pull_request:
+    types:
+      - closed
+    branches:
+      - 'github-workflow'
+
+jobs:
+  notify_on_merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      
+      - name: Extract version from package.json
+        id: extract_version
+        run: echo ::set-output name=version::$(jq -r '.version' package.json)
+        
+      - name: Send message to Slack
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          curl -X POST -H 'Content-type: application/json' --data '{"text": "Version: ${{ steps.extract_version.outputs.version }}\nPR ID: ${{ github.event.pull_request.number }}"}' $SLACK_WEBHOOK_URL

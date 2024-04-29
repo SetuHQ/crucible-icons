@@ -165,6 +165,16 @@ export const iconSpecificStyles: IconStylesTypes = {
         secondary   : "#42cacd",
     },
 
+    [PictogramsNames.BoxWithLeftArrow]: {
+        base        : "#b7cde1",
+        primary     : "#42CACD",
+    },
+
+     [PictogramsNames.BoxWithRightArrow]: {
+        base        : "#b7cde1",
+        primary     : "#42CACD",
+    },
+
     [PictogramsNames.Brain]: {
         base        : "#b7cde1",
         primary     : "#42cacd",
@@ -260,11 +270,11 @@ export const iconSpecificStyles: IconStylesTypes = {
     [PictogramsNames.ChatBubbles]: {
         base        : "#b7cde1",
         primary     : "#42CACD",
-    },  
+    },
     [PictogramsNames.ChatBot]: {
         base        : "#42CACD",
         primary     : "#FEB452",
-    },  
+    },
 
     [PictogramsNames.Checklist]: {
         base        : "#b7cde1",
@@ -586,7 +596,6 @@ export const iconSpecificStyles: IconStylesTypes = {
         base        : "#b7cde1",
         primary     : "#42CACD",
     },
-    
     [PictogramsNames.Metro]: {
         base        : "#b7cde1",
         primary     : "#42CACD",
@@ -867,7 +876,7 @@ export const iconSpecificStyles: IconStylesTypes = {
         base        : "#b7cde1",
         primary     : "#09cdcd",
     },
-    
+
     [PictogramsNames.RingWithDiamond]: {
         base        : "#FEB452",
         primary     : "#42CACD",
