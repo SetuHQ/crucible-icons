@@ -11,8 +11,8 @@ jobs:
   publish-npm:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: lts/*
           registry-url: https://registry.npmjs.org/
@@ -21,3 +21,21 @@ jobs:
       - run: npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
+  
+  notify_on_merge:
+    needs: publish-npm
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Extract version from package.json
+        id: extract_version
+        run: echo "version=$(jq -r '.version' package.json)" >> $GITHUB_OUTPUT
+        
+      - name: Send message to Slack
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          curl -X POST -H 'Content-type: application/json' --data '{"text": "Successfully published a new version - *`${{ steps.extract_version.outputs.version }}`*\nnpm package - `@setu/crucible-icons`\nCheck out the GitHub PR <https://github.com/SetuHQ/crucible-icons/pull/${{ github.event.pull_request.number }}|here> for more details"}' $SLACK_WEBHOOK_URL
