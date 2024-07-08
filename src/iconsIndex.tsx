@@ -315,6 +315,7 @@ export { default as ShieldWithTick } from "./icons/reactLineIcons/ShieldWithTick
 export { default as SibebarLineIcon } from "./icons/reactLineIcons/SibebarLineIcon";
 export { default as Spanner } from "./icons/reactLineIcons/Spanner";
 export { default as SquareStackWithLoadingArrow } from "./icons/reactLineIcons/SquareStackWithLoadingArrow";
+export { default as SquareWithPen } from "./icons/reactLineIcons/SquareWithPen";
 export { default as StoveWithFlame } from "./icons/reactLineIcons/StoveWithFlame";
 export { default as Sun } from "./icons/reactLineIcons/Sun";
 export { default as SwimTube } from "./icons/reactLineIcons/SwimTube";
