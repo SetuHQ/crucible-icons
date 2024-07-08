@@ -1,10 +1,4 @@
-<svg
-    id="Layer_2"
-    data-name="Layer 2"
-    xmlns="http://www.w3.org/2000/svg"
-    xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 24 24"
->
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24">
     <defs>
         <style>
             .stroke {
@@ -12,22 +6,16 @@
             }
         </style>
     </defs>
-    <g id="Layer_1-2" data-name="Layer 1">
-        <circle class="stroke" stroke-linecap="round" stroke-linejoin="round" cx="12.04" cy="15.72" r=".5" />
-    </g>
-    <g id="Layer_2-2" data-name="Layer 2">
-        <g>
-            <g>
-                <path stroke-width="2px" class="stroke" stroke-linecap="round" stroke-linejoin="round" d="m12,10v3" />
-                <path
-                    stroke-width="2px"
-                    fill="none"
-                    class="stroke"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    d="m12,4l8.66,15H3.34L12,4Z"
-                />
-            </g>
-        </g>
-    </g>
+
+    <circle class="stroke" stroke-linecap="round" stroke-linejoin="round" cx="12.04" cy="15.72" r=".5" />
+        
+    <path stroke-width="2" class="stroke" stroke-linecap="round" stroke-linejoin="round" d="m12,10v3" />
+    <path
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="m12,4l8.66,15H3.34L12,4Z"
+    />
 </svg>

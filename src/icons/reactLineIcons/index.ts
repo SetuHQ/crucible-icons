@@ -112,6 +112,7 @@ export { default as ShieldWithTick } from "./ShieldWithTick";
 export { default as SibebarLineIcon } from "./SibebarLineIcon";
 export { default as Spanner } from "./Spanner";
 export { default as SquareStackWithLoadingArrow } from "./SquareStackWithLoadingArrow";
+export { default as SquareWithPen } from "./SquareWithPen";
 export { default as StoveWithFlame } from "./StoveWithFlame";
 export { default as Sun } from "./Sun";
 export { default as SwimTube } from "./SwimTube";
