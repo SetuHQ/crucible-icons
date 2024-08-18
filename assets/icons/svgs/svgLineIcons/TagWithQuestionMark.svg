@@ -2,7 +2,8 @@
     <defs>
         <style>
             .stroke {
-                stroke: #000;
+                stroke: white;
+                
             }
         </style>
     </defs>
@@ -14,7 +15,7 @@
         stroke-linejoin="round"
         points="20 16 12 21 4 16 4 3 20 3 20 16"
     />
-    <circle cx="12" cy="17" r="1" />
+    <circle cx="12" cy="17" r="0.5" class="stroke" />
     <path
         stroke-width="2"
         fill="none"
