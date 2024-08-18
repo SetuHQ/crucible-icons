@@ -27,7 +27,7 @@ export const TagWithQuestionMark = React.forwardRef<SVGSVGElement, LineIconProps
                         strokeLinejoin="round"
                         points="20 16 12 21 4 16 4 3 20 3 20 16"
                     />
-                    <circle cx="12" cy="17" r="1" />
+                    <circle cx="12" cy="17" r="0.5" className="stroke" />
                     <path
                         strokeWidth="2"
                         fill="none"

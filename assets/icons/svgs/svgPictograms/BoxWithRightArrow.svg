@@ -10,23 +10,61 @@
             }
 
             .primary {
-                fill: #42CACD;
+                fill: #42cacd;
             }
         </style>
     </defs>
-    <rect x="60.4916" y="34.2393" width="21" height="5" rx="2.5" transform="rotate(-180 60.4916 34.2393)"
-        fill="white" />
-    <rect x="45.4916" y="41.2393" width="13.3093" height="4" rx="2" transform="rotate(-135 45.4916 41.2393)"
-        fill="white" />
-    <rect width="13.6658" height="4" rx="2" transform="matrix(0.707107 -0.707107 -0.707107 -0.707107 38.8284 34.4912)"
-        fill="white" />
+    <rect
+        x="60.4916"
+        y="34.2393"
+        width="21"
+        height="5"
+        rx="2.5"
+        transform="rotate(-180 60.4916 34.2393)"
+        fill="white"
+    />
+    <rect
+        x="45.4916"
+        y="41.2393"
+        width="13.3093"
+        height="4"
+        rx="2"
+        transform="rotate(-135 45.4916 41.2393)"
+        fill="white"
+    />
+    <rect
+        width="13.6658"
+        height="4"
+        rx="2"
+        transform="matrix(0.707107 -0.707107 -0.707107 -0.707107 38.8284 34.4912)"
+        fill="white"
+    />
     <rect x="8" y="4" width="42" height="56" rx="4.75" class="base" />
     <g class="mix-blend-multiply">
-        <rect x="60.4916" y="34.2393" width="21" height="5" rx="2.5" transform="rotate(-180 60.4916 34.2393)"
-            class="primary" />
-        <rect x="45.4916" y="41.2393" width="13.3093" height="4" rx="2" transform="rotate(-135 45.4916 41.2393)"
-            class="primary" />
-        <rect width="13.6658" height="4" rx="2"
-            transform="matrix(0.707107 -0.707107 -0.707107 -0.707107 38.8284 34.4912)" class="primary" />
+        <rect
+            x="60.4916"
+            y="34.2393"
+            width="21"
+            height="5"
+            rx="2.5"
+            transform="rotate(-180 60.4916 34.2393)"
+            class="primary"
+        />
+        <rect
+            x="45.4916"
+            y="41.2393"
+            width="13.3093"
+            height="4"
+            rx="2"
+            transform="rotate(-135 45.4916 41.2393)"
+            class="primary"
+        />
+        <rect
+            width="13.6658"
+            height="4"
+            rx="2"
+            transform="matrix(0.707107 -0.707107 -0.707107 -0.707107 38.8284 34.4912)"
+            class="primary"
+        />
     </g>
 </svg>

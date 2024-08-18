@@ -10,19 +10,29 @@
             }
 
             .primary {
-                fill: #42CACD;
+                fill: #42cacd;
             }
         </style>
     </defs>
     <rect x="3" y="29" width="21" height="5" rx="2.5" fill="white" />
     <rect x="18" y="22" width="13.3093" height="4" rx="2" transform="rotate(45 18 22)" fill="white" />
-    <rect width="13.6658" height="4" rx="2" transform="matrix(-0.707107 0.707107 0.707107 0.707107 24.6631 28.748)"
-        fill="white" />
+    <rect
+        width="13.6658"
+        height="4"
+        rx="2"
+        transform="matrix(-0.707107 0.707107 0.707107 0.707107 24.6631 28.748)"
+        fill="white"
+    />
     <rect x="14" y="4" width="42" height="56" rx="4.75" class="base" />
     <g class="mix-blend-multiply">
         <rect x="3" y="29" width="21" height="5" rx="2.5" class="primary" />
         <rect x="18" y="22" width="13.3093" height="4" rx="2" transform="rotate(45 18 22)" class="primary" />
-        <rect width="13.6658" height="4" rx="2" transform="matrix(-0.707107 0.707107 0.707107 0.707107 24.6631 28.748)"
-            class="primary" />
+        <rect
+            width="13.6658"
+            height="4"
+            rx="2"
+            transform="matrix(-0.707107 0.707107 0.707107 0.707107 24.6631 28.748)"
+            class="primary"
+        />
     </g>
 </svg>
