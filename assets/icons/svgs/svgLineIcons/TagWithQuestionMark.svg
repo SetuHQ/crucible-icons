@@ -2,7 +2,7 @@
     <defs>
         <style>
             .stroke {
-                stroke: white;
+                stroke: #000;
                 
             }
         </style>
