@@ -1,0 +1,61 @@
+<svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+        <style>
+            .base {
+                fill: #b7cde1;
+            }
+
+            .primary {
+                fill : #B3EAEB
+            }
+
+            .mix-blend-multiply {
+                mix-blend-mode: multiply;
+            }
+        </style>
+    </defs>
+    <path d="M9.15178 33.001C9.41377 31.8314 10.452 31 11.6506 31H52.3494C53.548 31 54.5862 31.8314 54.8482 33.001L58.602 49.7591C59.319 52.9598 56.8844 56 53.6044 56H10.3956C7.11557 56 4.68101 52.9598 5.39796 49.7591L9.15178 33.001Z" fill="white"/>
+    <path d="M10 10.5607C10 9.14647 11.1465 8 12.5607 8H51.4393C52.8535 8 54 9.14647 54 10.5607V33H10V10.5607Z" fill="white"/>
+    <g class="mix-blend-multiply">
+        <path d="M9.15178 33.001C9.41377 31.8314 10.452 31 11.6506 31H52.6157C53.8249 31 54.8693 31.8459 55.1206 33.0287L58.6861 49.8144C59.3628 53.0001 56.9332 56 53.6764 56H10.3956C7.11557 56 4.68101 52.9598 5.39796 49.7591L9.15178 33.001Z" class="base"/>
+    </g>
+    <g class="mix-blend-multiply">
+        <path d="M10 10.5607C10 9.14647 11.1465 8 12.5607 8H51.4393C52.8535 8 54 9.14647 54 10.5607V33H10V10.5607Z" class="base"/>
+    </g>
+    <g class="mix-blend-multiply">
+            <rect x="26" y="45" width="24" height="3" rx="1.5" class="primary"/>
+    </g>
+    <g class="mix-blend-multiply">
+        <rect x="26" y="45" width="24" height="3" rx="1.5" class="primary"/>
+    </g>
+    <g class="mix-blend-multiply">
+        <rect x="26" y="39" width="24" height="3" rx="1.5" class="primary"/>
+    </g>
+    <g class="mix-blend-multiply">
+        <rect x="26" y="39" width="24" height="3" rx="1.5" class="primary"/>
+    </g>
+    <g class="mix-blend-multiply">
+        <circle cx="19" cy="42" r="3" class="primary"/>
+    </g>
+    <g class="mix-blend-multiply">
+        <circle cx="19" cy="42" r="3" class="primary"/>
+    </g>
+    <g class="mix-blend-multiply">
+        <rect x="26" y="22" width="24" height="3" rx="1.5" class="primary"/>
+    </g>
+    <g class="mix-blend-multiply">
+        <rect x="26" y="22" width="24" height="3" rx="1.5" class="primary"/>
+    </g>
+    <g class="mix-blend-multiply">
+        <rect x="26" y="16" width="24" height="3" rx="1.5" class="primary"/>
+    </g>
+    <g class="mix-blend-multiply">
+        <rect x="26" y="16" width="24" height="3" rx="1.5" class="primary"/>
+    </g>
+    <g class="mix-blend-multiply">
+        <circle cx="19" cy="19" r="3" class="primary"/>
+    </g>
+    <g class="mix-blend-multiply">
+        <circle cx="19" cy="19" r="3" class="primary"/>
+    </g>
+</svg>

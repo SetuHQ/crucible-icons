@@ -10,9 +10,6 @@ export const WarningSign = React.forwardRef<SVGSVGElement, LineIconProps>(
         return (
             <SVGLineIconWrapper {...props}>
                 <svg
-                    width={width}
-                    height={height}
-                    ref={forwardedRef}
                     id="Layer_1"
                     data-name="Layer 1"
                     xmlns="http://www.w3.org/2000/svg"

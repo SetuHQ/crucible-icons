@@ -1,3 +1,5 @@
+import { HomeWithDoor, PassbookWithBalance } from "iconsIndex";
+
 // prettier-ignore
 export const PictogramsNames = {
     AA                              : "AA" ,
@@ -92,6 +94,7 @@ export const PictogramsNames = {
     Headphones                      : "Headphones" ,
     HeartWithCross                  : "HeartWithCross",
     HomeWithBraces                  : "HomeWithBraces",
+    HomeWithDoor                    : "HomeWithDoor",
     Hourglass                       : "Hourglass" ,
     IdCard                          : "IdCard" ,
     KYC                             : "KYC" ,
@@ -120,7 +123,7 @@ export const PictogramsNames = {
     MobileWithRupee                 : "MobileWithRupee",
     MobileWithTag                   : "MobileWithTag" ,
     MobileWithUpi                   : "MobileWithUpi" ,
-    MobilityCard : "MobilityCard",
+    MobilityCard                    : "MobilityCard",
     ModemPictogram                  : "ModemPictogram",
     Newspaper                       : "Newspaper" ,
     Note                            : "Note" ,
@@ -129,9 +132,10 @@ export const PictogramsNames = {
     ONDC                            : "ONDC" ,
     OpenBoxWithBraces               : "OpenBoxWithBraces",
     PaintRoller                     : "PaintRoller" ,
-    PanWithExclamation                  : "PanWithExclamation",
+    PanWithExclamation              : "PanWithExclamation",
     PaperWithCoin                   : "PaperWithCoin",
     Parchment                       : "Parchment" ,
+    PassbookWithBalance             : "PassbookWithBalance",
     Payments                        : "Payments" ,
     People                          : "People",
     PeopleWithCoin                  : "PeopleWithCoin" ,
