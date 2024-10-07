@@ -532,6 +532,10 @@ export const iconSpecificStyles: IconStylesTypes = {
         primary     : "#FEB452",
     },
 
+    [PictogramsNames.HomeWithDoor]: {
+        base        : "#b7cde1",
+    },
+
     [PictogramsNames.Hourglass]: {
         base        : "#b7cde1",
         primary     : "#00cfcf",
@@ -757,6 +761,11 @@ export const iconSpecificStyles: IconStylesTypes = {
         primary     : "#36a168",
         secondary   : "#ffffff",
         tertiary    : "#f2ad3d",
+    },
+
+    [PictogramsNames.PassbookWithBalance]: {
+        base        : "#b7cde1",
+        primary     : "#B3EAEB"
     },
 
     [PictogramsNames.Payments]: {
