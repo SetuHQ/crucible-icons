@@ -1019,6 +1019,12 @@ export const iconSpecificStyles: IconStylesTypes = {
         primary     : "#42cacd",
     },
 
+    [PictogramsNames.UMAP]: {
+        base        : "#D7ECE1",
+        primary     : "#36A168",
+        secondary   : "#1482FF"
+    },
+
     [PictogramsNames.UmbrellaWithCoinAndCash]: {
         base        : "#b7cde1",
         primary     : "#36a168",
@@ -1034,6 +1040,36 @@ export const iconSpecificStyles: IconStylesTypes = {
         tertiary    : "#36a168",
     },
 
+    [PictogramsNames.UPIDeeplinks]: {
+        base        : "#B7CDE1",
+        primary     : "#36a168",
+    },
+
+    [PictogramsNames.UPIQR]: {
+        base        : "#B7CDE1",
+        primary     : "#36a168",
+    },
+
+    [PictogramsNames.UPIRecur]: {
+        base        : "#B7CDE1",
+        primary     : "#36a168",
+    },
+
+    [PictogramsNames.UPIReserve]: {
+        base        : "#B7CDE1",
+        primary     : "#36a168",
+    },
+
+    [PictogramsNames.UPIReservePlus]: {
+        base        : "#B7CDE1",
+        primary     : "#36a168",
+    },
+
+    [PictogramsNames.UPITPV]: {
+        base        : "#B7CDE1",
+        primary     : "#36a168",
+    },
+    
     [PictogramsNames.Wave]: {
         base        : "#b7cde1",
         primary     : "#feb452",
