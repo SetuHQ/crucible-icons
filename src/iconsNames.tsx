@@ -51,6 +51,8 @@ export const PictogramsNames = {
     Checklist                       : "Checklist" ,
     Chord                           : "Chord" ,
     CircleWithCross                 : "CircleWithCross",
+    CircleWithExclamationMark       : "CircleWithExclamationMark",
+    CircleWithGear                  : "CircleWithGear",
     CircleWithPlus                  : "CircleWithPlus",
     CircleWithStarAndLines          : "CircleWithStarAndLines" ,
     CircleWithTick                  : "CircleWithTick",

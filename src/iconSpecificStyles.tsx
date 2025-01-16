@@ -297,6 +297,16 @@ export const iconSpecificStyles: IconStylesTypes = {
         primary     : "#ffffff",
     },
 
+    [PictogramsNames.CircleWithExclamationMark]: {
+      base        : "#F05656",
+      primary     : "#ffffff",
+  },
+
+  [PictogramsNames.CircleWithGear]: {
+      base        : "#FEB452",
+      primary     : "#ffffff",
+  },
+
     [PictogramsNames.CircleWithTick]: {
         base        : "#36A168",
         primary     : "#ffffff",

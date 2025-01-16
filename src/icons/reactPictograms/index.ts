@@ -46,6 +46,8 @@ export { default as ChatBubbles } from "./ChatBubbles";
 export { default as Checklist } from "./Checklist";
 export { default as Chord } from "./Chord";
 export { default as CircleWithCross } from "./CircleWithCross";
+export { default as CircleWithExclamationMark } from "./CircleWithExclamationMark";
+export { default as CircleWithGear } from "./CircleWithGear";
 export { default as CircleWithPlus } from "./CircleWithPlus";
 export { default as CircleWithStarAndLines } from "./CircleWithStarAndLines";
 export { default as CircleWithTick } from "./CircleWithTick";
