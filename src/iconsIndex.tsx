@@ -49,6 +49,8 @@ export { default as ChatBubbles } from "./icons/reactPictograms/ChatBubbles";
 export { default as Checklist } from "./icons/reactPictograms/Checklist";
 export { default as Chord } from "./icons/reactPictograms/Chord";
 export { default as CircleWithCross } from "./icons/reactPictograms/CircleWithCross";
+export { default as CircleWithExclamationMark } from "./icons/reactPictograms/CircleWithExclamationMark";
+export { default as CircleWithGear } from "./icons/reactPictograms/CircleWithGear";
 export { default as CircleWithPlus } from "./icons/reactPictograms/CircleWithPlus";
 export { default as CircleWithStarAndLines } from "./icons/reactPictograms/CircleWithStarAndLines";
 export { default as CircleWithTick } from "./icons/reactPictograms/CircleWithTick";
