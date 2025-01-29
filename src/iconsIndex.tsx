@@ -337,6 +337,7 @@ export { default as TextCursor } from "./icons/reactLineIcons/TextCursor";
 export { default as ThreeDots } from "./icons/reactLineIcons/ThreeDots";
 export { default as ThreeDotsHorizontal } from "./icons/reactLineIcons/ThreeDotsHorizontal";
 export { default as ThreeLines } from "./icons/reactLineIcons/ThreeLines";
+export { default as ThreeSliders } from "./icons/reactLineIcons/ThreeSliders";
 export { default as Tick } from "./icons/reactLineIcons/Tick";
 export { default as ToastLineIcon } from "./icons/reactLineIcons/ToastLineIcon";
 export { default as ToolboxLineIcon } from "./icons/reactLineIcons/ToolboxLineIcon";
