@@ -7,7 +7,71 @@ import { SVGLineIconWrapper } from "../../styles";
 
 export const ThreeSliders = React.forwardRef<SVGSVGElement, LineIconProps>(
     ({ width = 24, height = 24, ...props }, forwardedRef) => {
-        return <SVGLineIconWrapper {...props}></SVGLineIconWrapper>;
+        return (
+            <SVGLineIconWrapper {...props}>
+                <svg
+                    width={width}
+                    height={height}
+                    ref={forwardedRef}
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                >
+                    <defs></defs>
+                    <path
+                        d="M20 3V10"
+                        className="stroke"
+                        strokeWidth="2"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                    />
+                    <path
+                        d="M20 14V21"
+                        className="stroke"
+                        strokeWidth="2"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                    />
+                    <path
+                        d="M12 3V13"
+                        className="stroke"
+                        strokeWidth="2"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                    />
+                    <path
+                        d="M12 17V21"
+                        className="stroke"
+                        strokeWidth="2"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                    />
+                    <path d="M4 3V7" className="stroke" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+                    <path
+                        d="M4 11V21"
+                        className="stroke"
+                        strokeWidth="2"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                    />
+                    <path
+                        d="M23 10H17"
+                        className="stroke"
+                        strokeWidth="2"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                    />
+                    <path
+                        d="M15 17H9"
+                        className="stroke"
+                        strokeWidth="2"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                    />
+                    <path d="M7 7H1" className="stroke" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+                </svg>
+            </SVGLineIconWrapper>
+        );
     }
 );
 
