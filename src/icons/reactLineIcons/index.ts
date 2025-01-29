@@ -123,6 +123,7 @@ export { default as TextCursor } from "./TextCursor";
 export { default as ThreeDots } from "./ThreeDots";
 export { default as ThreeDotsHorizontal } from "./ThreeDotsHorizontal";
 export { default as ThreeLines } from "./ThreeLines";
+export { default as ThreeSliders } from "./ThreeSliders";
 export { default as Tick } from "./Tick";
 export { default as ToastLineIcon } from "./ToastLineIcon";
 export { default as ToolboxLineIcon } from "./ToolboxLineIcon";
