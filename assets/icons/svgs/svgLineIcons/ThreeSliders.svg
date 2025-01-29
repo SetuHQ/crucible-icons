@@ -6,13 +6,13 @@
             }
         </style>
     </defs>
-<path d="M20 3V10" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M20 14V21" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M12 3V13" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M12 17V21" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M4 3V7" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M4 11V21" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M23 10H17" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M15 17H9" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M7 7H1" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M20 3V10" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M20 14V21" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M12 3V13" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M12 17V21" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M4 3V7" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M4 11V21" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M23 10H17" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M15 17H9" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M7 7H1" class="stroke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
 </svg>
