@@ -10,16 +10,19 @@ export const WarningSign = React.forwardRef<SVGSVGElement, LineIconProps>(
         return (
             <SVGLineIconWrapper {...props}>
                 <svg
+                    width={width}
+                    height={height}
+                    ref={forwardedRef}
                     id="Layer_1"
                     data-name="Layer 1"
                     xmlns="http://www.w3.org/2000/svg"
-                    xmlnsXlink="http://www.w3.org/1999/xlink"
                     viewBox="0 0 24 24"
                 >
                     <defs></defs>
 
                     <circle
                         className="stroke"
+                        fill="none"
                         strokeLinecap="round"
                         strokeLinejoin="round"
                         cx="12.04"
@@ -29,6 +32,7 @@ export const WarningSign = React.forwardRef<SVGSVGElement, LineIconProps>(
 
                     <path
                         strokeWidth="2"
+                        fill="none"
                         className="stroke"
                         strokeLinecap="round"
                         strokeLinejoin="round"
