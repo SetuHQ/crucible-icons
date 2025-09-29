@@ -78,6 +78,7 @@ export const PictogramsNames = {
     Empathy                         : "Empathy" ,
     Envelope                        : "Envelope" ,
     eSign                           : "eSign" ,
+    EVRecharge                      : "EVRecharge" ,
     Fastag                          : "Fastag" ,
     Flag                            : "Flag" ,
     FlaskWithBraces                 : "FlaskWithBraces",
