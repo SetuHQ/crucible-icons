@@ -440,6 +440,13 @@ export const iconSpecificStyles: IconStylesTypes = {
         secondary   : "#6d67ce",
     },
 
+    [PictogramsNames.EVRecharge]: {
+        base        : "#b7cde1",
+        primary     : "#42cacd",
+        secondary   : "#8db1d1",
+        tertiary    : "#dbe6f0",
+    },
+
     [PictogramsNames.Fastag]: {
         base        : "#cde7d9",
         primary     : "#1275e5",

@@ -71,6 +71,7 @@ export { default as DocumentWithLock } from "./DocumentWithLock";
 export { default as DocumentWithRedBadge } from "./DocumentWithRedBadge";
 export { default as DownArrowWithCoin } from "./DownArrowWithCoin";
 export { default as Droplets } from "./Droplets";
+export { default as EVRecharge } from "./EVRecharge";
 export { default as Empathy } from "./Empathy";
 export { default as Envelope } from "./Envelope";
 export { default as Fastag } from "./Fastag";

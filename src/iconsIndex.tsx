@@ -74,6 +74,7 @@ export { default as DocumentWithLock } from "./icons/reactPictograms/DocumentWit
 export { default as DocumentWithRedBadge } from "./icons/reactPictograms/DocumentWithRedBadge";
 export { default as DownArrowWithCoin } from "./icons/reactPictograms/DownArrowWithCoin";
 export { default as Droplets } from "./icons/reactPictograms/Droplets";
+export { default as EVRecharge } from "./icons/reactPictograms/EVRecharge";
 export { default as Empathy } from "./icons/reactPictograms/Empathy";
 export { default as Envelope } from "./icons/reactPictograms/Envelope";
 export { default as Fastag } from "./icons/reactPictograms/Fastag";
