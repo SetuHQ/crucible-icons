@@ -460,6 +460,11 @@ export const iconSpecificStyles: IconStylesTypes = {
         tertiary    : "#009b99",
     },
 
+    [PictogramsNames.FleetManagement]: {
+        base        : "#B7CDE1",
+        primary     : "#FFFFFF",
+    },
+
     [PictogramsNames.FlaskWithBraces]: {
         base        : "#B7CDE1",
         primary     : "#42CACD",
