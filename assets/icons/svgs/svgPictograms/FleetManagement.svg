@@ -2,13 +2,13 @@
 <defs>
 <style>
 .base{fill:#B7CDE1;}
-.fill-white{fill:#FFFFFF;}
+.primary{fill:#FFFFFF;}
 .mix-blend-multiply{mix-blend-mode:multiply;}
 </style>
 </defs>
-<rect class="fill-white" x="26" y="19" width="16" height="23" rx="1.35356" transform="rotate(90 26 19)"/>
-<rect class="fill-white" x="24" y="22" width="18" height="19" rx="1.35356" transform="rotate(90 24 22)"/>
-<rect class="fill-white" x="25" y="40" width="2" height="21" rx="1" transform="rotate(90 25 40)"/>
+<rect class="primary" x="26" y="19" width="16" height="23" rx="1.35356" transform="rotate(90 26 19)"/>
+<rect class="primary" x="24" y="22" width="18" height="19" rx="1.35356" transform="rotate(90 24 22)"/>
+<rect class="primary" x="25" y="40" width="2" height="21" rx="1" transform="rotate(90 25 40)"/>
 <g class="mix-blend-multiply">
 <circle class="base" cx="24.4214" cy="39" r="1"/>
 </g>

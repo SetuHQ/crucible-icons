@@ -20,7 +20,7 @@ export const FleetManagement = React.forwardRef<SVGSVGElement, PictogramIconProp
                 >
                     <defs></defs>
                     <rect
-                        className="fill-white"
+                        className="primary"
                         x="26"
                         y="19"
                         width="16"
@@ -29,7 +29,7 @@ export const FleetManagement = React.forwardRef<SVGSVGElement, PictogramIconProp
                         transform="rotate(90 26 19)"
                     />
                     <rect
-                        className="fill-white"
+                        className="primary"
                         x="24"
                         y="22"
                         width="18"
@@ -37,15 +37,7 @@ export const FleetManagement = React.forwardRef<SVGSVGElement, PictogramIconProp
                         rx="1.35356"
                         transform="rotate(90 24 22)"
                     />
-                    <rect
-                        className="fill-white"
-                        x="25"
-                        y="40"
-                        width="2"
-                        height="21"
-                        rx="1"
-                        transform="rotate(90 25 40)"
-                    />
+                    <rect className="primary" x="25" y="40" width="2" height="21" rx="1" transform="rotate(90 25 40)" />
                     <g className="mix-blend-multiply">
                         <circle className="base" cx="24.4214" cy="39" r="1" />
                     </g>
