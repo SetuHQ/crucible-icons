@@ -81,6 +81,7 @@ export { default as Fastag } from "./icons/reactPictograms/Fastag";
 export { default as Flag } from "./icons/reactPictograms/Flag";
 export { default as FlaskWithBraces } from "./icons/reactPictograms/FlaskWithBraces";
 export { default as FlaskWithCode } from "./icons/reactPictograms/FlaskWithCode";
+export { default as FleetManagement } from "./icons/reactPictograms/FleetManagement";
 export { default as FolderWithArrows } from "./icons/reactPictograms/FolderWithArrows";
 export { default as FolderWithArrowsAndPaper } from "./icons/reactPictograms/FolderWithArrowsAndPaper";
 export { default as FolderWithMagnifyingGlass } from "./icons/reactPictograms/FolderWithMagnifyingGlass";

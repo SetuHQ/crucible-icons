@@ -81,6 +81,7 @@ export const PictogramsNames = {
     EVRecharge                      : "EVRecharge" ,
     Fastag                          : "Fastag" ,
     Flag                            : "Flag" ,
+    FleetManagement                 : "FleetManagement" ,
     FlaskWithBraces                 : "FlaskWithBraces",
     FlaskWithCode                   : "FlaskWithCode",
     FolderWithMagnifyingGlass       : "FolderWithMagnifyingGlass",

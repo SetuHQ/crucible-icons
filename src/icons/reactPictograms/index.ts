@@ -78,6 +78,7 @@ export { default as Fastag } from "./Fastag";
 export { default as Flag } from "./Flag";
 export { default as FlaskWithBraces } from "./FlaskWithBraces";
 export { default as FlaskWithCode } from "./FlaskWithCode";
+export { default as FleetManagement } from "./FleetManagement";
 export { default as FolderWithArrows } from "./FolderWithArrows";
 export { default as FolderWithArrowsAndPaper } from "./FolderWithArrowsAndPaper";
 export { default as FolderWithMagnifyingGlass } from "./FolderWithMagnifyingGlass";

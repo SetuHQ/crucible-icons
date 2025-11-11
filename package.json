@@ -1,6 +1,6 @@
 {
     "name": "@setu/crucible-icons",
-    "version": "1.0.18",
+    "version": "1.0.19",
     "description": "Crucible Icons package",
     "license": "MIT",
     "main": "./dist/cjs/index.js",
