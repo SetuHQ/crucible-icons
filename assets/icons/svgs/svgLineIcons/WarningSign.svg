@@ -10,6 +10,12 @@
     <circle class="stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" cx="12.04" cy="15.72" r=".5" />
 
     <path stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round" d="m12,10v3" />
-    <path stroke-width="2" fill="none" class="stroke" stroke-linecap="round" stroke-linejoin="round"
-        d="m12,4l8.66,15H3.34L12,4Z" />
+    <path
+        stroke-width="2"
+        fill="none"
+        class="stroke"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="m12,4l8.66,15H3.34L12,4Z"
+    />
 </svg>
