@@ -16,6 +16,10 @@ jobs:
         with:
           node-version: lts/*
           registry-url: https://registry.npmjs.org/
+      - name: Enable Corepack
+        run: corepack enable
+      - name: Prepare Yarn v4
+        run: corepack prepare yarn@4.9.4 --activate
       - run: yarn
       - run: yarn build
       - run: npm publish --access public
