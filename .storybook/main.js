@@ -1,6 +1,7 @@
 module.exports = {
-    stories: ["../src/*.stories.tsx", "*.stories.mdx"],
-    addons: ["@storybook/addon-controls", "@storybook/addon-docs", "@storybook/addon-essentials"],
+    stories: ["../src/*.stories.tsx", "../src/*.mdx"],
+    addons: ["@storybook/addon-docs"],
+
     typescript: {
         check: false,
         checkOptions: {},
@@ -10,4 +11,9 @@ module.exports = {
             propFilter: (prop) => (prop.parent ? !/node_modules/.test(prop.parent.fileName) : true),
         },
     },
+
+    framework: {
+        name: "@storybook/react-vite",
+        options: {}
+    }
 };
