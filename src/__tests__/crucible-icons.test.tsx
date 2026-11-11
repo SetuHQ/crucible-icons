@@ -24,8 +24,8 @@ describe(`Pictograms`, () => {
 
                 elementWithWidthPropHeightProp && expect(elementWithWidthPropHeightProp).toHaveStyle("height: 60");
                 elementWithWidthPropHeightProp && expect(elementWithWidthPropHeightProp).toHaveStyle("width: 60");
-                elementWithBaseProp && expect(elementWithBaseProp).toHaveStyle(`fill: red}`);
-                elementWithPrimaryProp && expect(elementWithPrimaryProp).toHaveStyle(`fill: orange}`);
+                elementWithBaseProp && expect(elementWithBaseProp).toHaveStyle(`fill: red`);
+                elementWithPrimaryProp && expect(elementWithPrimaryProp).toHaveStyle(`fill: orange`);
                 elementWithSecondaryProp && expect(elementWithSecondaryProp).toHaveStyle("fill: yellow");
                 elementWithTertiaryProp && expect(elementWithTertiaryProp).toHaveStyle("fill: green");
             }

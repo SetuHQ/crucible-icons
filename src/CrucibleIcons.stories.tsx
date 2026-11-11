@@ -1,7 +1,7 @@
 import React, { Component, ForwardRefExoticComponent, RefAttributes, useState } from "react";
 import { Element, Heading, InfoPanel, InputField, Portion, Row, Text } from "fictoan-react";
 import styled from "styled-components";
-import { ComponentStory } from "@storybook/react";
+import { ComponentStory } from "@storybook/react-vite";
 import { PictogramIconProps } from "./types";
 import * as AllPictograms from "./icons/reactPictograms/";
 import * as AllLineIcons from "./icons/reactLineIcons/";

@@ -13,7 +13,8 @@ module.exports = {
         "eslint:recommended",
         "plugin:react/recommended",
         "plugin:react/jsx-runtime",
-        "prettier"
+        "prettier",
+        "plugin:storybook/recommended"
     ],
     globals: {
         "JSX": true
